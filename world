@@ -158,7 +158,6 @@ x11-misc/slim
 x11-misc/tint2
 x11-misc/wmctrl
 x11-misc/xbindkeys
-x11-misc/xmobar
 x11-misc/xscreensaver
 x11-misc/xsel
 x11-terms/rxvt-unicode
@@ -168,5 +167,3 @@ x11-themes/gtk-chtheme
 x11-themes/vanilla-dmz-xcursors
 x11-wm/compiz-fusion
 x11-wm/fluxbox
-x11-wm/ratpoison
-x11-wm/xmonad-contrib
