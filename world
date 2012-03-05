@@ -106,16 +106,15 @@ net-misc/whois
 net-misc/wicd
 net-p2p/linuxdcpp
 net-p2p/transmission
-net-voip/ekiga
-net-wireless/iwl1000-ucode
+net-wireless/iwl5000-ucode
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
 sys-apps/ack
 sys-apps/hdparm
-sys-apps/less
 sys-apps/mlocate
 sys-apps/pciutils
+sys-apps/portage
 sys-apps/usb_modeswitch
 sys-apps/usbutils
 sys-boot/grub
@@ -152,6 +151,7 @@ x11-apps/xev
 x11-apps/xmodmap
 x11-apps/xrandr
 x11-base/xorg-server
+x11-drivers/radeon-ucode
 x11-libs/qt-webkit
 x11-misc/dmenu
 x11-misc/electricsheep
