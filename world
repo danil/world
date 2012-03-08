@@ -89,7 +89,7 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
-net-im/empathy
+net-im/gajim
 net-im/skype
 net-irc/irssi
 net-mail/dovecot
