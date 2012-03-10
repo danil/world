@@ -71,10 +71,10 @@ media-fonts/terminus-font
 media-gfx/argyllcms
 media-gfx/eog
 media-gfx/feh
-media-gfx/gimp
 media-gfx/graphviz
 media-gfx/imagemagick
 media-gfx/inkscape
+media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
