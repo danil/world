@@ -77,7 +77,7 @@ media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
-media-sound/volumeicon
+media-sound/volti
 media-video/mplayer
 media-video/vlc
 net-analyzer/ngrep
