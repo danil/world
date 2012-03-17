@@ -58,8 +58,6 @@ gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
-kutkevich/danil-etc
-kutkevich/danil-home
 mail-client/evolution
 mail-client/mailx
 mail-client/mutt
@@ -69,6 +67,7 @@ media-fonts/font-misc-misc
 media-fonts/freefonts
 media-fonts/terminus-font
 media-gfx/argyllcms
+media-gfx/blender
 media-gfx/eog
 media-gfx/feh
 media-gfx/graphviz
