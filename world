@@ -58,8 +58,6 @@ gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
-kutkevich/danil-etc
-kutkevich/danil-home
 mail-client/evolution
 mail-client/mailx
 mail-client/mutt
@@ -69,6 +67,7 @@ media-fonts/font-misc-misc
 media-fonts/freefonts
 media-fonts/terminus-font
 media-gfx/argyllcms
+media-gfx/blender
 media-gfx/eog
 media-gfx/feh
 media-gfx/gimp
@@ -79,7 +78,7 @@ media-sound/alsa-utils
 media-sound/cmus
 media-sound/listen
 media-sound/moc
-media-sound/volumeicon
+media-sound/volti
 media-tv/xawtv
 media-video/mplayer
 media-video/vlc
@@ -92,6 +91,7 @@ net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
 net-im/empathy
+net-im/gajim
 net-im/skype
 net-im/telepathy-connection-managers
 net-irc/irssi
@@ -162,7 +162,6 @@ x11-misc/slim
 x11-misc/tint2
 x11-misc/wmctrl
 x11-misc/xbindkeys
-x11-misc/xmobar
 x11-misc/xscreensaver
 x11-misc/xsel
 x11-plugins/screenlets
@@ -173,5 +172,3 @@ x11-themes/gtk-chtheme
 x11-themes/vanilla-dmz-xcursors
 x11-wm/compiz-fusion
 x11-wm/fluxbox
-x11-wm/ratpoison
-x11-wm/xmonad-contrib
