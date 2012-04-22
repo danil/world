@@ -54,6 +54,7 @@ dev-vcs/git
 dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
+games-emulation/dosbox
 gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/gnome-power-manager
@@ -77,6 +78,7 @@ media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
+media-sound/rhythmbox
 media-sound/volti
 media-video/mplayer
 media-video/vlc
