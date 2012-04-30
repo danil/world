@@ -17,6 +17,7 @@ app-editors/nano
 app-editors/vim
 app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
+app-emacs/mew
 app-emulation/virtualbox
 app-misc/colordiff
 app-misc/gtypist
