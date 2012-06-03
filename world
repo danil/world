@@ -31,13 +31,11 @@ dev-lang/io
 dev-lang/lua
 dev-libs/fcgi
 dev-lua/luarocks
-dev-lua/orbit-daemon
 dev-python/markdown
 dev-util/ccache
 dev-util/lafilefixer
 dev-vcs/bzr
 dev-vcs/cvs
-dev-vcs/darcs
 dev-vcs/git
 dev-vcs/mercurial
 dev-vcs/subversion
@@ -63,8 +61,8 @@ net-misc/whois
 net-p2p/rtorrent
 sys-apps/ack
 sys-apps/hdparm
+sys-apps/mlocate
 sys-apps/pciutils
-sys-apps/slocate
 sys-boot/grub
 sys-fs/sshfs-fuse
 sys-kernel/gentoo-sources
