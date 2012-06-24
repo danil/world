@@ -17,6 +17,7 @@ app-editors/nano
 app-editors/vim
 app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
+app-emacs/mew
 app-emulation/virtualbox
 app-misc/colordiff
 app-misc/gtypist
@@ -54,6 +55,7 @@ dev-vcs/git
 dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
+games-emulation/dosbox
 gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/gnome-power-manager
@@ -70,14 +72,14 @@ media-gfx/argyllcms
 media-gfx/blender
 media-gfx/eog
 media-gfx/feh
-media-gfx/gimp
 media-gfx/graphviz
 media-gfx/imagemagick
 media-gfx/inkscape
+media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
-media-sound/listen
 media-sound/moc
+media-sound/rhythmbox
 media-sound/volti
 media-tv/xawtv
 media-video/mplayer
@@ -122,6 +124,7 @@ sys-boot/syslinux
 sys-boot/unetbootin
 sys-fs/dosfstools
 sys-fs/sshfs-fuse
+sys-fs/udiskie
 sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
 sys-power/acpi
@@ -155,7 +158,6 @@ x11-drivers/radeon-ucode
 x11-libs/qt-webkit
 x11-misc/dmenu
 x11-misc/electricsheep
-x11-misc/gmrun
 x11-misc/parcellite
 x11-misc/shutter
 x11-misc/slim
@@ -164,7 +166,6 @@ x11-misc/wmctrl
 x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
-x11-plugins/screenlets
 x11-terms/rxvt-unicode
 x11-themes/emerald-themes
 x11-themes/gnome-themes
