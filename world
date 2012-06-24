@@ -122,6 +122,7 @@ sys-boot/syslinux
 sys-boot/unetbootin
 sys-fs/dosfstools
 sys-fs/sshfs-fuse
+sys-fs/udiskie
 sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
 sys-power/acpi
