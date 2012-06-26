@@ -6,6 +6,7 @@ app-admin/mcelog
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
+app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/file-roller
 app-cdr/gnomebaker
