@@ -6,6 +6,7 @@ app-admin/mcelog
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
+app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/file-roller
 app-cdr/gnomebaker
@@ -81,6 +82,7 @@ media-sound/cmus
 media-sound/moc
 media-sound/rhythmbox
 media-sound/volti
+media-tv/xawtv
 media-video/mplayer
 media-video/vlc
 net-analyzer/ngrep
@@ -91,8 +93,10 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
+net-im/empathy
 net-im/gajim
 net-im/skype
+net-im/telepathy-connection-managers
 net-irc/irssi
 net-mail/dovecot
 net-mail/offlineimap
@@ -112,7 +116,6 @@ net-wireless/wpa_supplicant
 sci-mathematics/genius
 sys-apps/ack
 sys-apps/hdparm
-sys-apps/less
 sys-apps/mlocate
 sys-apps/pciutils
 sys-apps/usb_modeswitch
