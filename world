@@ -46,6 +46,7 @@ dev-lang/io
 dev-lang/lua
 dev-libs/fcgi
 dev-lua/orbit-daemon
+dev-python/gnome-keyring-python
 dev-util/ccache
 dev-util/lafilefixer
 dev-util/meld
