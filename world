@@ -9,7 +9,6 @@ app-admin/syslog-ng
 app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/file-roller
-app-cdr/gnomebaker
 app-dicts/myspell-en
 app-dicts/myspell-ru
 app-editors/gedit
@@ -45,24 +44,20 @@ dev-lang/erlang
 dev-lang/io
 dev-lang/lua
 dev-libs/fcgi
-dev-lua/orbit-daemon
 dev-python/gnome-keyring-python
 dev-util/ccache
 dev-util/lafilefixer
 dev-util/meld
 dev-vcs/bzr
 dev-vcs/cvs
-dev-vcs/darcs
 dev-vcs/git
 dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
-gnome-extra/avant-window-navigator-extras
+gnome-base/gdm
 gnome-extra/gconf-editor
-gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
-mail-client/evolution
 mail-client/mailx
 mail-client/mutt
 mail-client/thunderbird-bin
@@ -71,7 +66,6 @@ media-fonts/font-misc-misc
 media-fonts/freefonts
 media-fonts/terminus-font
 media-gfx/argyllcms
-media-gfx/blender
 media-gfx/eog
 media-gfx/feh
 media-gfx/graphviz
@@ -81,7 +75,6 @@ media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
-media-sound/rhythmbox
 media-sound/volti
 media-tv/xawtv
 media-video/mplayer
@@ -96,6 +89,7 @@ net-ftp/lftp
 net-ftp/vsftpd
 net-im/empathy
 net-im/gajim
+net-im/indicator-messages
 net-im/skype
 net-im/telepathy-connection-managers
 net-irc/irssi
@@ -138,6 +132,8 @@ sys-process/anacron
 sys-process/atop
 sys-process/htop
 sys-process/lsof
+unity-base/unity-meta
+unity-extra/indicator-power
 virtual/jre
 www-client/elinks
 www-client/firefox-bin
@@ -168,9 +164,8 @@ x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
 x11-terms/rxvt-unicode
-x11-themes/emerald-themes
 x11-themes/gnome-themes
 x11-themes/gtk-chtheme
+x11-themes/light-themes
 x11-themes/vanilla-dmz-xcursors
-x11-wm/compiz-fusion
 x11-wm/fluxbox
