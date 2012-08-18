@@ -56,6 +56,7 @@ dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
 gnome-base/gdm
+gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/nautilus-dropbox
 mail-client/mailx
@@ -89,7 +90,6 @@ net-ftp/lftp
 net-ftp/vsftpd
 net-im/empathy
 net-im/gajim
-net-im/indicator-messages
 net-im/skype
 net-im/telepathy-connection-managers
 net-irc/irssi
@@ -105,7 +105,6 @@ net-misc/wicd
 net-p2p/linuxdcpp
 net-p2p/transmission
 net-voip/ekiga
-net-wireless/iwl1000-ucode
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
@@ -118,6 +117,7 @@ sys-apps/usbutils
 sys-boot/grub
 sys-boot/syslinux
 sys-boot/unetbootin
+sys-firmware/iwl1000-ucode
 sys-fs/dosfstools
 sys-fs/sshfs-fuse
 sys-fs/udiskie
