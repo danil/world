@@ -55,9 +55,9 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
-gnome-base/gdm
 gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
+gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
 mail-client/mailx
 mail-client/mutt
@@ -88,10 +88,8 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
-net-im/empathy
 net-im/gajim
 net-im/skype
-net-im/telepathy-connection-managers
 net-irc/irssi
 net-mail/dovecot
 net-mail/offlineimap
@@ -104,11 +102,11 @@ net-misc/whois
 net-misc/wicd
 net-p2p/linuxdcpp
 net-p2p/transmission
-net-voip/ekiga
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
 sys-apps/ack
+sys-apps/etckeeper
 sys-apps/hdparm
 sys-apps/mlocate
 sys-apps/pciutils
@@ -132,8 +130,6 @@ sys-process/anacron
 sys-process/atop
 sys-process/htop
 sys-process/lsof
-unity-base/unity-meta
-unity-extra/indicator-power
 virtual/jre
 www-client/elinks
 www-client/firefox-bin
@@ -145,6 +141,7 @@ www-client/opera
 www-client/w3m
 www-plugins/adobe-flash
 www-servers/nginx
+x11-apps/ccsm
 x11-apps/mesa-progs
 x11-apps/xdm
 x11-apps/xdpyinfo
@@ -153,6 +150,7 @@ x11-apps/xmodmap
 x11-apps/xrandr
 x11-base/xorg-server
 x11-libs/qt-webkit
+x11-misc/cairo-dock-plugins
 x11-misc/dmenu
 x11-misc/electricsheep
 x11-misc/parcellite
@@ -163,7 +161,10 @@ x11-misc/wmctrl
 x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
+x11-plugins/compiz-plugins-extra
+x11-plugins/screenlets
 x11-terms/rxvt-unicode
+x11-themes/emerald-themes
 x11-themes/gnome-themes
 x11-themes/gtk-chtheme
 x11-themes/light-themes
