@@ -20,7 +20,6 @@ app-emacs/gentoo-syntax
 app-emacs/mew
 app-emulation/virtualbox
 app-misc/colordiff
-app-misc/gtypist
 app-misc/screen
 app-misc/sphinx
 app-office/abiword
@@ -30,7 +29,6 @@ app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
 app-portage/portage-utils
-app-text/asciidoc
 app-text/catdoc
 app-text/convmv
 app-text/dos2unix
@@ -40,8 +38,6 @@ app-text/sloccount
 app-text/stardict
 app-text/xmlto
 dev-db/mysql
-dev-lang/erlang
-dev-lang/io
 dev-lang/lua
 dev-libs/fcgi
 dev-python/gnome-keyring-python
@@ -55,7 +51,6 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
-gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
 gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
@@ -77,7 +72,6 @@ media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
 media-sound/volti
-media-tv/xawtv
 media-video/mplayer
 media-video/vlc
 net-analyzer/ngrep
@@ -90,7 +84,6 @@ net-ftp/lftp
 net-ftp/vsftpd
 net-im/gajim
 net-im/skype
-net-irc/irssi
 net-mail/dovecot
 net-mail/offlineimap
 net-misc/curl
@@ -123,7 +116,6 @@ sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
 sys-power/acpi
 sys-power/acpid
-sys-power/cpufreqd
 sys-power/cpufrequtils
 sys-power/hibernate-script
 sys-process/anacron
@@ -136,7 +128,6 @@ www-client/firefox-bin
 www-client/google-chrome
 www-client/links
 www-client/lynx
-www-client/midori
 www-client/opera
 www-client/w3m
 www-plugins/adobe-flash
