@@ -118,6 +118,7 @@ sys-power/acpi
 sys-power/acpid
 sys-power/cpufrequtils
 sys-power/hibernate-script
+sys-power/powertop
 sys-process/anacron
 sys-process/atop
 sys-process/htop
