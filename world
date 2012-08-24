@@ -41,26 +41,23 @@ app-text/sloccount
 app-text/stardict
 app-text/xmlto
 dev-db/mysql
+dev-db/mysql-workbench
 dev-lang/erlang
 dev-lang/io
 dev-lang/lua
 dev-libs/fcgi
-dev-lua/orbit-daemon
 dev-python/gnome-keyring-python
 dev-util/ccache
 dev-util/lafilefixer
 dev-util/meld
 dev-vcs/bzr
 dev-vcs/cvs
-dev-vcs/darcs
 dev-vcs/git
 dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
-gnome-extra/avant-window-navigator-extras
 gnome-extra/gconf-editor
-gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
 mail-client/evolution
 mail-client/mailx
@@ -109,7 +106,6 @@ net-misc/whois
 net-misc/wicd
 net-p2p/linuxdcpp
 net-p2p/transmission
-net-wireless/iwl5000-ucode
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
@@ -123,6 +119,7 @@ sys-apps/usbutils
 sys-boot/grub
 sys-boot/syslinux
 sys-boot/unetbootin
+sys-firmware/iwl5000-ucode
 sys-fs/dosfstools
 sys-fs/sshfs-fuse
 sys-fs/udiskie
@@ -133,6 +130,7 @@ sys-power/acpid
 sys-power/cpufreqd
 sys-power/cpufrequtils
 sys-power/hibernate-script
+sys-power/powertop
 sys-process/anacron
 sys-process/atop
 sys-process/htop
@@ -157,6 +155,7 @@ x11-apps/xrandr
 x11-base/xorg-server
 x11-drivers/radeon-ucode
 x11-libs/qt-webkit
+x11-misc/cairo-dock-plugins
 x11-misc/dmenu
 x11-misc/electricsheep
 x11-misc/parcellite
@@ -167,6 +166,7 @@ x11-misc/wmctrl
 x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
+x11-plugins/screenlets
 x11-terms/rxvt-unicode
 x11-themes/emerald-themes
 x11-themes/gnome-themes
@@ -174,3 +174,4 @@ x11-themes/gtk-chtheme
 x11-themes/vanilla-dmz-xcursors
 x11-wm/compiz-fusion
 x11-wm/fluxbox
+xfce-extra/xfce4-power-manager
