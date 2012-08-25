@@ -11,7 +11,7 @@ app-arch/arj
 app-arch/file-roller
 app-dicts/myspell-en
 app-dicts/myspell-ru
-app-editors/gedit
+app-editors/gedit-plugins
 app-editors/leafpad
 app-editors/nano
 app-editors/vim
@@ -52,7 +52,6 @@ dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
 gnome-extra/gconf-editor
-gnome-extra/gnome-power-manager
 gnome-extra/nautilus-dropbox
 mail-client/mailx
 mail-client/mutt
@@ -162,3 +161,4 @@ x11-themes/gtk-chtheme
 x11-themes/light-themes
 x11-themes/vanilla-dmz-xcursors
 x11-wm/fluxbox
+xfce-extra/xfce4-power-manager
