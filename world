@@ -1,3 +1,4 @@
+=x11-themes/gtk-engines-xfce-3.0.0-r300
 app-admin/apache-tools
 app-admin/conky
 app-admin/emacs-updater
@@ -22,9 +23,11 @@ app-emulation/virtualbox
 app-misc/colordiff
 app-misc/screen
 app-misc/sphinx
+app-misc/tmux
 app-office/abiword
 app-office/gnumeric
 app-office/libreoffice-bin
+app-office/orage
 app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
@@ -156,9 +159,18 @@ x11-plugins/compiz-plugins-extra
 x11-plugins/screenlets
 x11-terms/rxvt-unicode
 x11-themes/emerald-themes
+x11-themes/faenza-xfce-icon-theme
+x11-themes/gnome-icon-theme-extras
 x11-themes/gnome-themes
 x11-themes/gtk-chtheme
 x11-themes/light-themes
+x11-themes/tango-icon-theme-extras
 x11-themes/vanilla-dmz-xcursors
+x11-themes/xfwm4-themes
 x11-wm/fluxbox
+xfce-base/xfce4-meta
+xfce-extra/xfce4-genmon-plugin
+xfce-extra/xfce4-mixer
 xfce-extra/xfce4-power-manager
+xfce-extra/xfce4-taskmanager
+xfce-extra/xfce4-volumed
