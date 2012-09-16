@@ -41,6 +41,7 @@ app-text/sloccount
 app-text/stardict
 app-text/xmlto
 dev-db/mysql
+dev-db/mysql-workbench
 dev-lang/lua
 dev-libs/fcgi
 dev-python/gnome-keyring-python
