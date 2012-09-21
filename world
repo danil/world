@@ -111,7 +111,7 @@ sys-apps/usbutils
 sys-boot/grub
 sys-boot/syslinux
 sys-boot/unetbootin
-sys-firmware/iwl1000-ucode
+sys-firmware/iwl5000-ucode
 sys-fs/dosfstools
 sys-fs/sshfs-fuse
 sys-fs/udiskie
@@ -144,6 +144,7 @@ x11-apps/xev
 x11-apps/xmodmap
 x11-apps/xrandr
 x11-base/xorg-server
+x11-drivers/radeon-ucode
 x11-libs/qt-webkit
 x11-misc/cairo-dock-plugins
 x11-misc/dmenu
