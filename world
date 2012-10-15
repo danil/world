@@ -1,3 +1,4 @@
+=sys-devel/gcc-4.5.4
 =x11-themes/gtk-engines-xfce-3.0.0-r300
 app-admin/apache-tools
 app-admin/conky
@@ -165,6 +166,7 @@ x11-themes/emerald-themes
 x11-themes/faenza-xfce-icon-theme
 x11-themes/gnome-icon-theme-extras
 x11-themes/gnome-themes
+x11-themes/greybird
 x11-themes/gtk-chtheme
 x11-themes/light-themes
 x11-themes/tango-icon-theme-extras
