@@ -78,6 +78,7 @@ media-sound/cmus
 media-sound/moc
 media-sound/volti
 media-video/mplayer
+media-video/mplayer2
 media-video/vlc
 net-analyzer/ngrep
 net-analyzer/nmap
