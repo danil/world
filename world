@@ -61,6 +61,7 @@ games-emulation/dosbox
 gnome-extra/docky
 gnome-extra/gconf-editor
 gnome-extra/nautilus-dropbox
+mail-client/evolution
 mail-client/mailx
 mail-client/mutt
 mail-client/thunderbird-bin
@@ -90,6 +91,7 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
+net-im/empathy
 net-im/gajim
 net-im/skype
 net-mail/dovecot
