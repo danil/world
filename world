@@ -38,6 +38,7 @@ app-text/catdoc
 app-text/convmv
 app-text/dos2unix
 app-text/evince
+app-text/fbreader
 app-text/htmltidy
 app-text/sloccount
 app-text/stardict
@@ -58,6 +59,7 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
+games-util/steam-meta
 gnome-extra/docky
 gnome-extra/gconf-editor
 gnome-extra/nautilus-dropbox
