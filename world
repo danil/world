@@ -26,6 +26,7 @@ app-misc/screen
 app-misc/sphinx
 app-misc/tmux
 app-office/abiword
+app-office/gnucash
 app-office/gnumeric
 app-office/libreoffice-bin
 app-office/orage
@@ -57,6 +58,7 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
+gnome-extra/docky
 gnome-extra/gconf-editor
 gnome-extra/nautilus-dropbox
 mail-client/mailx
@@ -78,6 +80,7 @@ media-sound/cmus
 media-sound/moc
 media-sound/volti
 media-video/mplayer
+media-video/mplayer2
 media-video/vlc
 net-analyzer/ngrep
 net-analyzer/nmap
@@ -87,6 +90,7 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
+net-im/empathy
 net-im/gajim
 net-im/skype
 net-mail/dovecot
