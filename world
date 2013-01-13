@@ -126,6 +126,7 @@ sys-power/hibernate-script
 sys-power/powertop
 sys-process/anacron
 sys-process/atop
+sys-process/glances
 sys-process/htop
 sys-process/lsof
 virtual/jre
@@ -138,7 +139,6 @@ www-client/opera
 www-client/w3m
 www-plugins/adobe-flash
 www-servers/nginx
-x11-apps/ccsm
 x11-apps/mesa-progs
 x11-apps/xdm
 x11-apps/xdpyinfo
@@ -150,6 +150,7 @@ x11-drivers/radeon-ucode
 x11-libs/qt-webkit
 x11-misc/cairo-dock-plugins
 x11-misc/dmenu
+x11-misc/dockmanager
 x11-misc/electricsheep
 x11-misc/parcellite
 x11-misc/shutter
@@ -159,7 +160,6 @@ x11-misc/wmctrl
 x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
-x11-plugins/compiz-plugins-extra
 x11-plugins/screenlets
 x11-terms/rxvt-unicode
 x11-themes/emerald-themes
