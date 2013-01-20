@@ -123,6 +123,7 @@ sys-boot/syslinux
 sys-boot/unetbootin
 sys-firmware/iwl1000-ucode
 sys-fs/dosfstools
+sys-fs/ntfs3g
 sys-fs/sshfs-fuse
 sys-fs/udiskie
 sys-kernel/gentoo-sources
