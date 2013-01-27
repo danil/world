@@ -21,6 +21,7 @@ app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
 app-emacs/mew
 app-emulation/virtualbox
+app-emulation/wine
 app-misc/colordiff
 app-misc/screen
 app-misc/sphinx
@@ -94,8 +95,8 @@ net-fs/autofs
 net-fs/samba
 net-ftp/lftp
 net-ftp/vsftpd
-net-im/empathy
 net-im/gajim
+net-im/pidgin
 net-im/skype
 net-mail/dovecot
 net-mail/offlineimap
