@@ -11,7 +11,6 @@ app-admin/syslog-ng
 app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/file-roller
-app-backup/spideroak-bin
 app-dicts/myspell-en
 app-dicts/myspell-ru
 app-editors/gedit-plugins
