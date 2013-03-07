@@ -50,7 +50,9 @@ dev-db/mysql-workbench
 dev-lang/go
 dev-lang/lua
 dev-libs/fcgi
+dev-libs/libyaml
 dev-python/gnome-keyring-python
+dev-qt/qtwebkit
 dev-util/ccache
 dev-util/lafilefixer
 dev-util/meld
@@ -64,7 +66,6 @@ games-emulation/dosbox
 games-util/steam-meta
 gnome-extra/docky
 gnome-extra/gconf-editor
-gnome-extra/nautilus-dropbox
 mail-client/evolution
 mail-client/mailx
 mail-client/mutt
@@ -102,6 +103,7 @@ net-mail/dovecot
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd
+net-misc/dropbox
 net-misc/ntp
 net-misc/openvpn
 net-misc/urlview
@@ -117,6 +119,7 @@ sys-apps/etckeeper
 sys-apps/hdparm
 sys-apps/mlocate
 sys-apps/pciutils
+sys-apps/the_silver_searcher
 sys-apps/usb_modeswitch
 sys-apps/usbutils
 sys-boot/grub
@@ -156,7 +159,6 @@ x11-apps/xev
 x11-apps/xmodmap
 x11-apps/xrandr
 x11-base/xorg-server
-x11-libs/qt-webkit
 x11-misc/cairo-dock-plugins
 x11-misc/dmenu
 x11-misc/dockmanager
@@ -182,6 +184,7 @@ x11-themes/tango-icon-theme-extras
 x11-themes/vanilla-dmz-xcursors
 x11-themes/xfwm4-themes
 x11-wm/fluxbox
+xfce-base/thunar
 xfce-base/xfce4-meta
 xfce-extra/xfce4-genmon-plugin
 xfce-extra/xfce4-mixer
