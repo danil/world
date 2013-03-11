@@ -21,6 +21,7 @@ app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
 app-emacs/mew
 app-emulation/virtualbox
+app-emulation/wine
 app-misc/colordiff
 app-misc/screen
 app-misc/sphinx
@@ -37,7 +38,8 @@ app-portage/portage-utils
 app-text/catdoc
 app-text/convmv
 app-text/dos2unix
-app-text/evince
+app-text/fbreader
+app-text/gpicker
 app-text/htmltidy
 app-text/sloccount
 app-text/stardict
@@ -60,9 +62,9 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
+games-util/steam-meta
 gnome-extra/docky
 gnome-extra/gconf-editor
-gnome-extra/nautilus-dropbox
 mail-client/mailx
 mail-client/mutt
 mail-client/thunderbird-bin
@@ -98,12 +100,12 @@ net-mail/dovecot
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd
+net-misc/dropbox
 net-misc/ntp
 net-misc/openvpn
 net-misc/urlview
 net-misc/whois
 net-misc/wicd
-net-p2p/linuxdcpp
 net-p2p/transmission
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
@@ -113,6 +115,7 @@ sys-apps/etckeeper
 sys-apps/hdparm
 sys-apps/mlocate
 sys-apps/pciutils
+sys-apps/the_silver_searcher
 sys-apps/usb_modeswitch
 sys-apps/usbutils
 sys-boot/grub
@@ -120,6 +123,7 @@ sys-boot/syslinux
 sys-boot/unetbootin
 sys-firmware/iwl5000-ucode
 sys-fs/dosfstools
+sys-fs/ntfs3g
 sys-fs/sshfs-fuse
 sys-fs/udiskie
 sys-kernel/gentoo-sources
@@ -164,7 +168,6 @@ x11-misc/wmctrl
 x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
-x11-plugins/screenlets
 x11-terms/rxvt-unicode
 x11-themes/emerald-themes
 x11-themes/faenza-xfce-icon-theme
@@ -177,6 +180,7 @@ x11-themes/tango-icon-theme-extras
 x11-themes/vanilla-dmz-xcursors
 x11-themes/xfwm4-themes
 x11-wm/fluxbox
+xfce-base/thunar
 xfce-base/xfce4-meta
 xfce-extra/xfce4-genmon-plugin
 xfce-extra/xfce4-mixer
