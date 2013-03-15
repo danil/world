@@ -62,7 +62,6 @@ dev-vcs/mercurial
 dev-vcs/subversion
 dev-vcs/tig
 games-emulation/dosbox
-games-util/steam-meta
 gnome-extra/docky
 gnome-extra/gconf-editor
 mail-client/mailx
@@ -82,6 +81,7 @@ media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
 media-sound/moc
+media-sound/sox
 media-sound/volti
 media-video/mplayer
 media-video/mplayer2
