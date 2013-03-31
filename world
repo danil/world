@@ -115,6 +115,8 @@ net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
 sys-apps/ack
+sys-apps/baobab
+sys-apps/bleachbit
 sys-apps/etckeeper
 sys-apps/hdparm
 sys-apps/mlocate
