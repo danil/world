@@ -20,8 +20,10 @@ app-editors/vim
 app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
 app-emacs/mew
+app-emulation/playonlinux
 app-emulation/virtualbox
 app-emulation/wine
+app-emulation/winetricks
 app-misc/colordiff
 app-misc/screen
 app-misc/sphinx
@@ -108,6 +110,7 @@ net-misc/urlview
 net-misc/whois
 net-misc/wicd
 net-p2p/transmission
+net-wireless/blueman
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
