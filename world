@@ -107,10 +107,13 @@ net-misc/urlview
 net-misc/whois
 net-misc/wicd
 net-p2p/transmission
+net-wireless/blueman
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sci-mathematics/genius
 sys-apps/ack
+sys-apps/baobab
+sys-apps/bleachbit
 sys-apps/etckeeper
 sys-apps/hdparm
 sys-apps/mlocate
