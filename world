@@ -27,6 +27,7 @@ app-misc/screen
 app-misc/sphinx
 app-misc/tmux
 app-office/abiword
+app-office/dia
 app-office/gnucash
 app-office/gnumeric
 app-office/libreoffice-bin
