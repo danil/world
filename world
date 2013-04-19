@@ -29,6 +29,7 @@ app-misc/screen
 app-misc/sphinx
 app-misc/tmux
 app-office/abiword
+app-office/dia
 app-office/gnucash
 app-office/gnumeric
 app-office/libreoffice-bin
@@ -48,6 +49,7 @@ app-text/stardict
 app-text/xmlto
 dev-db/mysql
 dev-db/mysql-workbench
+dev-db/postgresql-server
 dev-lang/go
 dev-lang/lua
 dev-libs/fcgi
