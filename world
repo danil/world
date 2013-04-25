@@ -155,6 +155,7 @@ www-client/lynx
 www-client/opera
 www-client/w3m
 www-plugins/adobe-flash
+www-plugins/google-talkplugin
 www-servers/nginx
 x11-apps/mesa-progs
 x11-apps/xdm
