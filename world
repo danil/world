@@ -1,6 +1,7 @@
 app-admin/apache-tools
 app-admin/emacs-updater
 app-admin/logrotate
+app-admin/mcelog
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
@@ -11,6 +12,7 @@ app-editors/nano
 app-editors/vim
 app-emacs/emacs-daemon
 app-emacs/gentoo-syntax
+app-emacs/mew
 app-misc/colordiff
 app-misc/screen
 app-misc/tmux
@@ -18,7 +20,6 @@ app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
 app-portage/portage-utils
-app-text/asciidoc
 app-text/catdoc
 app-text/convmv
 app-text/dos2unix
@@ -54,18 +55,23 @@ net-misc/dhcpcd
 net-misc/ntp
 net-misc/telnet-bsd
 net-misc/whois
+sci-mathematics/genius
 sys-apps/ack
 sys-apps/hdparm
 sys-apps/iproute2
 sys-apps/mlocate
 sys-apps/pciutils
+sys-apps/the_silver_searcher
 sys-fs/sshfs-fuse
+sys-power/powertop
 sys-process/atop
+sys-process/glances
 sys-process/htop
 sys-process/iotop
 sys-process/lsof
 sys-process/vixie-cron
 www-client/elinks
 www-client/links
+www-client/lynx
 www-client/w3m
 www-servers/nginx
