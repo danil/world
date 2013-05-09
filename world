@@ -46,7 +46,6 @@ net-analyzer/tcpdump
 net-analyzer/traceroute
 net-dns/bind-tools
 net-firewall/iptables
-net-fs/curlftpfs
 net-ftp/lftp
 net-ftp/vsftpd
 net-mail/offlineimap
@@ -60,7 +59,6 @@ sys-apps/hdparm
 sys-apps/iproute2
 sys-apps/mlocate
 sys-apps/pciutils
-sys-boot/grub
 sys-fs/sshfs-fuse
 sys-process/atop
 sys-process/htop
