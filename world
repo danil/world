@@ -41,6 +41,7 @@ mail-mta/exim
 media-fonts/corefonts
 media-fonts/freefonts
 net-analyzer/arping
+net-analyzer/fail2ban
 net-analyzer/mtr
 net-analyzer/ngrep
 net-analyzer/nmap
