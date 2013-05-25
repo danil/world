@@ -45,7 +45,7 @@ media-fonts/freefonts
 net-analyzer/arping
 net-analyzer/fail2ban
 net-analyzer/mtr
-net-analyzer/nagios
+net-analyzer/munin
 net-analyzer/ngrep
 net-analyzer/nmap
 net-analyzer/tcpdump
