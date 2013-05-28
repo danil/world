@@ -57,6 +57,7 @@ dev-libs/fcgi
 dev-libs/libyaml
 dev-python/gnome-keyring-python
 dev-qt/qtwebkit
+dev-ruby/mruby-bin
 dev-util/ccache
 dev-util/lafilefixer
 dev-util/meld
