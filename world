@@ -68,7 +68,6 @@ sys-fs/sshfs-fuse
 sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
 sys-power/acpid
-sys-power/nut
 sys-process/atop
 sys-process/htop
 sys-process/lsof
