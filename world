@@ -181,6 +181,7 @@ x11-misc/xbindkeys
 x11-misc/xscreensaver
 x11-misc/xsel
 x11-terms/rxvt-unicode
+x11-themes/delorean-gtk-theme
 x11-themes/emerald-themes
 x11-themes/faenza-xfce-icon-theme
 x11-themes/gnome-icon-theme-extras
@@ -188,6 +189,7 @@ x11-themes/gnome-themes
 x11-themes/greybird
 x11-themes/gtk-chtheme
 x11-themes/light-themes
+x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/tango-icon-theme-extras
 x11-themes/vanilla-dmz-xcursors
 x11-themes/xfwm4-themes
