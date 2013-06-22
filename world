@@ -170,7 +170,6 @@ x11-apps/xrandr
 x11-base/xorg-server
 x11-drivers/radeon-ucode
 x11-misc/cairo-dock-plugins
-x11-misc/cdm
 x11-misc/dmenu
 x11-misc/dockmanager
 x11-misc/electricsheep
@@ -190,6 +189,7 @@ x11-themes/gnome-themes
 x11-themes/greybird
 x11-themes/gtk-chtheme
 x11-themes/light-themes
+x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/tango-icon-theme-extras
 x11-themes/vanilla-dmz-xcursors
 x11-themes/xfwm4-themes
