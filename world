@@ -1,4 +1,4 @@
-=x11-themes/gtk-engines-xfce-3.0.0-r300
+=x11-themes/gtk-engines-xfce-3.0.1-r300
 app-admin/apache-tools
 app-admin/conky
 app-admin/emacs-updater
@@ -18,8 +18,8 @@ app-editors/gedit-plugins
 app-editors/leafpad
 app-editors/nano
 app-editors/vim
+app-emacs/ebuild-mode
 app-emacs/emacs-daemon
-app-emacs/gentoo-syntax
 app-emacs/mew
 app-emulation/playonlinux
 app-emulation/virtualbox
@@ -48,6 +48,7 @@ app-text/gpicker
 app-text/htmltidy
 app-text/sloccount
 app-text/stardict
+app-text/tree
 app-text/xmlto
 dev-db/mysql
 dev-db/mysql-workbench
@@ -152,6 +153,7 @@ sys-process/glances
 sys-process/htop
 sys-process/lsof
 virtual/jre
+virtual/texi2dvi
 www-client/elinks
 www-client/firefox-bin
 www-client/google-chrome
@@ -170,7 +172,6 @@ x11-apps/xmodmap
 x11-apps/xrandr
 x11-base/xorg-server
 x11-drivers/radeon-ucode
-x11-misc/cairo-dock-plugins
 x11-misc/dmenu
 x11-misc/dockmanager
 x11-misc/electricsheep
