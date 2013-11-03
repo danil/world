@@ -1,3 +1,4 @@
+<sys-boot/grub-2
 =x11-themes/gtk-engines-xfce-3.0.1-r300
 app-admin/apache-tools
 app-admin/conky
@@ -18,14 +19,13 @@ app-editors/gedit-plugins
 app-editors/leafpad
 app-editors/nano
 app-editors/vim
-app-emacs/ebuild-mode
-app-emacs/emacs-daemon
 app-emacs/mew
 app-emulation/playonlinux
 app-emulation/virtualbox
 app-emulation/wine
 app-emulation/winetricks
 app-misc/colordiff
+app-misc/klavaro
 app-misc/screen
 app-misc/sphinx
 app-misc/tmux
@@ -33,7 +33,6 @@ app-office/abiword
 app-office/dia
 app-office/gnucash
 app-office/gnumeric
-app-office/libreoffice-bin
 app-office/orage
 app-portage/eix
 app-portage/gentoolkit
@@ -43,6 +42,7 @@ app-shells/zsh-completion
 app-text/catdoc
 app-text/convmv
 app-text/dos2unix
+app-text/evince
 app-text/fbreader
 app-text/gpicker
 app-text/htmltidy
@@ -60,6 +60,7 @@ dev-libs/fcgi
 dev-libs/libyaml
 dev-python/gnome-keyring-python
 dev-qt/qtwebkit
+dev-util/android-tools
 dev-util/ccache
 dev-util/meld
 dev-vcs/bzr
@@ -76,6 +77,7 @@ mail-client/mailx
 mail-client/mutt
 mail-client/thunderbird-bin
 media-fonts/corefonts
+media-fonts/droid
 media-fonts/font-adobe-100dpi
 media-fonts/font-adobe-75dpi
 media-fonts/font-misc-misc
@@ -89,6 +91,7 @@ media-gfx/feh
 media-gfx/graphviz
 media-gfx/imagemagick
 media-gfx/inkscape
+media-libs/libmtp
 media-plugins/gimp-lqr
 media-sound/alsa-utils
 media-sound/cmus
@@ -117,6 +120,8 @@ net-misc/dropbox
 net-misc/ntp
 net-misc/openvpn
 net-misc/urlview
+net-misc/vinagre
+net-misc/vino
 net-misc/whois
 net-misc/wicd
 net-p2p/transmission
@@ -198,7 +203,7 @@ x11-themes/xfwm4-themes
 x11-wm/fluxbox
 xfce-base/thunar
 xfce-base/xfce4-meta
-xfce-extra/tumbler
+xfce-extra/thunar-volman
 xfce-extra/xfce4-genmon-plugin
 xfce-extra/xfce4-mixer
 xfce-extra/xfce4-power-manager
