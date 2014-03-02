@@ -3,7 +3,17 @@ Gentoo world
 
 My Gentoo world.
 
-* sys-power/hibernate-script - `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
+* app-text/convmv            convert filenames to utf8
+* media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
+* net-dns/bind-tools         `dig`, `host` and `nslookup`
+* sys-power/hibernate-script `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
+* x11-apps/mesa-progs        `glxgears` opengl frames per second (fps) benchmark
+* x11-apps/xdm               starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
+* x11-apps/xdpyinfo          show dpi
+* x11-misc/parcellite        copy and paste between xorg and terminal clipboard
+* x11-misc/wmctrl            compiz viewports switch
+* x11-misc/xdotool           simulate keyboard input in xchainkeys
+* x11-misc/xsel              copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 
 Copying
 -------
