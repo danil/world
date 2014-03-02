@@ -2,6 +2,7 @@ app-admin/apache-tools
 app-admin/emacs-updater
 app-admin/logrotate
 app-admin/mcelog
+app-admin/monit
 app-admin/pwgen
 app-admin/sudo
 app-admin/syslog-ng
@@ -11,8 +12,6 @@ app-arch/lzip
 app-arch/unzip
 app-editors/nano
 app-editors/vim
-app-emacs/emacs-daemon
-app-emacs/gentoo-syntax
 app-emacs/mew
 app-misc/colordiff
 app-misc/screen
@@ -26,6 +25,7 @@ app-text/catdoc
 app-text/convmv
 app-text/dos2unix
 app-text/sloccount
+app-text/tree
 app-text/xmlto
 dev-libs/libyaml
 dev-util/ccache
@@ -67,6 +67,7 @@ sys-apps/iproute2
 sys-apps/mlocate
 sys-apps/pciutils
 sys-apps/the_silver_searcher
+sys-devel/bc
 sys-fs/sshfs-fuse
 sys-power/powertop
 sys-process/atop
