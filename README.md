@@ -1,13 +1,12 @@
 Gentoo world
 ============
 
-This is Danil Kutkevich Gentoo world <http://git.kutkevich.org/world.git>.
-World file contains every package have explicitly installed.
+My Gentoo world.
 
 Copying
 -------
 
-Copyright (C) 2012 Danil Kutkevich <danil@kutkevich.org>
+Copyright (C) 2014 Danil Kutkevich <danil@kutkevich.org>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
