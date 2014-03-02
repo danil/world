@@ -3,6 +3,8 @@ Gentoo world
 
 My Gentoo world.
 
+* sys-power/hibernate-script - `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
+
 Copying
 -------
 
