@@ -3,10 +3,14 @@ Gentoo world
 
 My Gentoo world.
 
+Installed
+---------
 * app-text/convmv            convert filenames to utf8
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
+* net-misc/httpie            curl replacement <http://httpie.org>
 * sys-power/hibernate-script `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
+* sys-process/glances        htop replacement <https://github.com/nicolargo/glances>
 * x11-apps/mesa-progs        `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdm               starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-apps/xdpyinfo          show dpi

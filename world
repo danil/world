@@ -26,11 +26,11 @@ app-shells/bash-completion
 app-text/convmv
 app-text/dos2unix
 app-text/sloccount
+app-text/stardict
 app-text/tree
 dev-python/gnome-keyring-python
 dev-util/ccache
 dev-vcs/git
-dev-vcs/mercurial
 dev-vcs/tig
 mail-client/mutt
 media-fonts/corefonts
@@ -56,6 +56,7 @@ net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd
 net-misc/dropbox
+net-misc/httpie
 net-misc/ntp
 net-misc/whois
 net-misc/wicd
@@ -72,6 +73,7 @@ sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
 sys-power/hibernate-script
 sys-process/anacron
+sys-process/glances
 sys-process/htop
 sys-process/lsof
 www-client/firefox-bin
