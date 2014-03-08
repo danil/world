@@ -5,7 +5,9 @@ My Gentoo world.
 
 Installed
 ---------
+
 * app-text/convmv            convert filenames to utf8
+* app-text/mupdf             pdf viewer recommended by xfce <https://wiki.xfce.org/recommendedapps#mupdf>
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
 * net-misc/httpie            curl replacement <http://httpie.org>

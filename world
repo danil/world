@@ -25,6 +25,7 @@ app-portage/portage-utils
 app-shells/bash-completion
 app-text/convmv
 app-text/dos2unix
+app-text/mupdf
 app-text/sloccount
 app-text/stardict
 app-text/tree
