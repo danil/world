@@ -7,7 +7,6 @@ Installed
 ---------
 
 * app-text/convmv            convert filenames to utf8
-* app-text/mupdf             pdf viewer recommended by xfce <https://wiki.xfce.org/recommendedapps#mupdf>
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
 * net-misc/httpie            curl replacement <http://httpie.org>
@@ -20,6 +19,11 @@ Installed
 * x11-misc/wmctrl            compiz viewports switch
 * x11-misc/xdotool           simulate keyboard input in xchainkeys
 * x11-misc/xsel              copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+
+Uninstalled
+-----------
+
+* app-text/mupdf             pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 
 Copying
 -------
