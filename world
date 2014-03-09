@@ -61,7 +61,6 @@ net-misc/httpie
 net-misc/ntp
 net-misc/whois
 net-misc/wicd
-net-wireless/blueman
 sci-mathematics/genius
 sys-apps/baobab
 sys-apps/mlocate
