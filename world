@@ -43,8 +43,8 @@ media-fonts/freefonts
 media-fonts/terminus-font
 media-fonts/ttf-bitstream-vera
 media-fonts/ubuntu-font-family
-media-gfx/eog
 media-gfx/feh
+media-gfx/ristretto
 media-sound/alsa-utils
 media-sound/sox
 media-video/mpv
@@ -106,6 +106,7 @@ x11-themes/vanilla-dmz-xcursors
 xfce-base/thunar
 xfce-base/xfce4-meta
 xfce-extra/thunar-volman
+xfce-extra/tumbler
 xfce-extra/xfce4-mixer
 xfce-extra/xfce4-power-manager
 xfce-extra/xfce4-volumed

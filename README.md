@@ -7,6 +7,7 @@ Installed
 ---------
 
 * app-text/convmv            convert filenames to utf8
+* media-gfx/ristretto        xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
 * net-misc/httpie            curl replacement <http://httpie.org>
@@ -19,6 +20,7 @@ Installed
 * x11-misc/wmctrl            compiz viewports switch
 * x11-misc/xdotool           simulate keyboard input in xchainkeys
 * x11-misc/xsel              copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+* xfce-extra/tumbler         thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 
 Uninstalled
 -----------
