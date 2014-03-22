@@ -104,6 +104,7 @@ x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
 x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/vanilla-dmz-xcursors
+x11-wm/ratpoison
 xfce-base/thunar
 xfce-base/xfce4-meta
 xfce-extra/thunar-volman
