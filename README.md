@@ -7,6 +7,7 @@ Installed
 ---------
 
 * app-text/convmv            convert filenames to utf8
+* media-fonts/font-misc-misc stumpwm dependency <https://github.com/stumpwm/stumpwm/wiki/FAQ#wiki-im-on-gentoo-and-stumpwm-fails-to-start-it-produces-the-error-there-is-no-applicable-method-for-the-generic-function--when-called-with-arguments-nil>
 * media-gfx/ristretto        xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
