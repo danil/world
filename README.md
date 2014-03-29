@@ -19,6 +19,7 @@ Installed
 * x11-apps/xdpyinfo          show dpi
 * x11-misc/dunst             minimalistic notification daemon (canonical's notify-osd replacement) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
 * x11-misc/parcellite        copy and paste between xorg and terminal clipboard
+* x11-misc/unclutter         hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl            compiz viewports switch
 * x11-misc/xdotool           simulate keyboard input in xchainkeys
 * x11-misc/xsel              copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
