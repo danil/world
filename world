@@ -37,7 +37,6 @@ dev-vcs/tig
 mail-client/mutt
 media-fonts/dejavu
 media-fonts/font-misc-misc
-media-fonts/source-pro
 media-fonts/terminus-font
 media-gfx/feh
 media-gfx/ristretto
@@ -59,12 +58,12 @@ net-misc/ntp
 net-misc/whois
 net-misc/wicd
 sci-mathematics/genius
-sys-apps/baobab
 sys-apps/mlocate
 sys-apps/the_silver_searcher
 sys-boot/grub
 sys-firmware/iwl5000-ucode
 sys-fs/dosfstools
+sys-fs/gt5
 sys-fs/ntfs3g
 sys-kernel/gentoo-sources
 sys-kernel/module-rebuild
