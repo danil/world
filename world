@@ -48,6 +48,7 @@ net-ftp/lftp
 net-ftp/vsftpd
 net-im/gajim
 net-im/skype
+net-irc/weechat
 net-mail/dovecot
 net-mail/offlineimap
 net-misc/curl
@@ -55,8 +56,10 @@ net-misc/dhcpcd
 net-misc/dropbox
 net-misc/httpie
 net-misc/ntp
+net-misc/tor
 net-misc/whois
 net-misc/wicd
+net-proxy/torsocks
 sci-mathematics/genius
 sys-apps/mlocate
 sys-apps/the_silver_searcher

@@ -12,6 +12,7 @@ Installed
 * media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools         `dig`, `host` and `nslookup`
 * net-misc/httpie            curl replacement <http://httpie.org>
+* net-proxy/torsocks         torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
 * sys-fs/gt5                 baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances        htop replacement <https://github.com/nicolargo/glances>
