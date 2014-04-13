@@ -6,26 +6,28 @@ My Gentoo world.
 Installed
 ---------
 
-* app-text/convmv            convert filenames to utf8
-* media-fonts/font-misc-misc stumpwm dependency <https://github.com/stumpwm/stumpwm/wiki/FAQ#wiki-im-on-gentoo-and-stumpwm-fails-to-start-it-produces-the-error-there-is-no-applicable-method-for-the-generic-function--when-called-with-arguments-nil>
-* media-gfx/ristretto        xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
-* media-video/mpv            mplayer replacement <https://github.com/mpv-player/mpv>
-* net-dns/bind-tools         `dig`, `host` and `nslookup`
-* net-misc/httpie            curl replacement <http://httpie.org>
-* net-proxy/torsocks         torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
-* sys-fs/gt5                 baobab replacement; diskspace usage <http://gt5.sourceforge.net>
-* sys-power/hibernate-script `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
-* sys-process/glances        htop replacement <https://github.com/nicolargo/glances>
-* x11-apps/mesa-progs        `glxgears` opengl frames per second (fps) benchmark
-* x11-apps/xdm               starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
-* x11-apps/xdpyinfo          show dpi
-* x11-misc/dunst             minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
-* x11-misc/parcellite        copy and paste between xorg and terminal clipboard
-* x11-misc/unclutter         hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
-* x11-misc/wmctrl            compiz viewports switch
-* x11-misc/xdotool           simulate keyboard input in xchainkeys
-* x11-misc/xsel              copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
-* xfce-extra/tumbler         thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
+* app-text/convmv                convert filenames to utf8
+* dev-perl/rename                rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* media-fonts/font-misc-misc     stumpwm dependency <https://github.com/stumpwm/stumpwm/wiki/FAQ#wiki-im-on-gentoo-and-stumpwm-fails-to-start-it-produces-the-error-there-is-no-applicable-method-for-the-generic-function--when-called-with-arguments-nil>
+* media-gfx/ristretto            xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
+* media-video/mpv                mplayer replacement <https://github.com/mpv-player/mpv>
+* net-dns/bind-tools             `dig`, `host` and `nslookup`
+* net-misc/httpie                curl replacement <http://httpie.org>
+* net-proxy/torsocks             torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
+* sys-fs/gt5                     baobab replacement; diskspace usage <http://gt5.sourceforge.net>
+* sys-power/hibernate-script     `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
+* sys-process/glances            htop replacement <https://github.com/nicolargo/glances>
+* x11-apps/mesa-progs            `glxgears` opengl frames per second (fps) benchmark
+* x11-apps/xdm                   starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
+* x11-apps/xdpyinfo              show dpi
+* x11-misc/dunst                 minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
+* x11-misc/parcellite            copy and paste between xorg and terminal clipboard
+* x11-misc/unclutter             hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
+* x11-misc/wmctrl                compiz viewports switch
+* x11-misc/xdotool               simulate keyboard input in xchainkeys
+* x11-misc/xsel                  copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+* xfce-extra/tumbler             thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
+* xfce-extra/xfce4-screenshooter screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 Uninstalled
 -----------
