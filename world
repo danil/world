@@ -37,6 +37,7 @@ dev-vcs/git
 dev-vcs/tig
 mail-client/mutt
 media-fonts/dejavu
+media-fonts/fantasque-sans
 media-fonts/font-misc-misc
 media-fonts/terminus-font
 media-gfx/feh
@@ -61,6 +62,7 @@ net-misc/tor
 net-misc/whois
 net-misc/wicd
 net-proxy/torsocks
+net-wireless/rfkill
 sci-mathematics/genius
 sys-apps/mlocate
 sys-apps/the_silver_searcher
