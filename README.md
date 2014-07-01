@@ -24,6 +24,7 @@ Installed
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
+* x11-misc/skippy                    ala compiz scale <https://github.com/richardgv/skippy-xd>, <https://code.google.com/p/skippy-xd >
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
