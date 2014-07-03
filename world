@@ -36,6 +36,8 @@ dev-vcs/tig
 mail-client/mutt
 media-fonts/dejavu
 media-fonts/fantasque-sans
+media-fonts/fira-sans
+media-fonts/libertine-ttf
 media-fonts/terminus-font
 media-gfx/feh
 media-gfx/ristretto

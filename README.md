@@ -8,6 +8,9 @@ Installed
 
 * app-text/convmv                    convert filenames to utf8
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* media-fonts/fantasque-sans         fantastic monospace font
+* media-fonts/fira-sans              thin sans font
+* media-fonts/libertine-ttf          sans-serif font used by Wikipedia
 * media-fonts/terminus-font          user in console (ter-v16n)
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
 * media-sound/sox                    `play` audio files from cli
