@@ -94,6 +94,7 @@ x11-misc/dex
 x11-misc/dmenu
 x11-misc/dunst
 x11-misc/i3lock
+x11-misc/i3status
 x11-misc/skippy
 x11-misc/unclutter
 x11-misc/xautolock
@@ -107,6 +108,7 @@ x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 x11-wm/awesome
+x11-wm/i3
 xfce-base/thunar
 xfce-extra/thunar-volman
 xfce-extra/tumbler
