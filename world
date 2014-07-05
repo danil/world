@@ -1,5 +1,4 @@
 <sys-boot/grub-2
-=x11-themes/gtk-engines-xfce-3.0.1-r300
 app-admin/apache-tools
 app-admin/emacs-updater
 app-admin/logrotate
@@ -17,6 +16,7 @@ app-editors/vim
 app-emulation/virtualbox
 app-misc/colordiff
 app-misc/tmux
+app-office/libreoffice-bin
 app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
@@ -40,6 +40,7 @@ media-fonts/fira-sans
 media-fonts/libertine-ttf
 media-fonts/terminus-font
 media-gfx/feh
+media-gfx/gimp
 media-gfx/ristretto
 media-sound/alsa-utils
 media-sound/sox
@@ -92,12 +93,12 @@ x11-drivers/radeon-ucode
 x11-misc/dex
 x11-misc/dmenu
 x11-misc/dunst
-x11-misc/electricsheep
+x11-misc/i3lock
 x11-misc/skippy
 x11-misc/unclutter
+x11-misc/xautolock
 x11-misc/xchainkeys
 x11-misc/xdotool
-x11-misc/xscreensaver
 x11-misc/xsel
 x11-terms/rxvt-unicode
 x11-themes/faenza-icon-theme
@@ -107,7 +108,6 @@ x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 x11-wm/awesome
 xfce-base/thunar
-xfce-base/xfce4-meta
 xfce-extra/thunar-volman
 xfce-extra/tumbler
 xfce-extra/xfce4-mixer
