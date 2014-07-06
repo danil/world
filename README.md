@@ -28,23 +28,25 @@ Installed
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
 * x11-misc/i3lock                    xscreensaver replacement
-* x11-misc/i3status                  generates status bar for i3
-* x11-misc/skippy                    ala compiz scale <https://github.com/richardgv/skippy-xd>, <https://code.google.com/p/skippy-xd >
+* x11-misc/skippy                    ala compiz scale (osx expose) <https://github.com/richardgv/skippy-xd>, <https://code.google.com/p/skippy-xd>
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
+* x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
 * x11-misc/xautolock                 used by i3lock
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
-* x11-themes/sound-theme-freedesktop complete sound belongs to
+* x11-misc/xxkb                      keyboard layout indicator for tray
+* x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
+* xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 Uninstalled
 -----------
 
-* app-text/mupdf             pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
-* x11-misc/parcellite            copy and paste between xorg and terminal clipboard
-* x11-misc/tint2             does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
-* x11-misc/wmctrl                compiz viewports switch
+* app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
+* x11-misc/i3status                  generates status bar for i3
+* x11-misc/parcellite                copy and paste between xorg and terminal clipboard
+* x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 
 Copying
 -------
