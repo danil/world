@@ -41,6 +41,8 @@ media-fonts/libertine-ttf
 media-fonts/terminus-font
 media-gfx/feh
 media-gfx/gimp
+media-gfx/inkscape
+media-gfx/openscad
 media-gfx/ristretto
 media-sound/alsa-utils
 media-sound/sox
@@ -72,7 +74,6 @@ sys-fs/dosfstools
 sys-fs/gt5
 sys-fs/ntfs3g
 sys-kernel/gentoo-sources
-sys-kernel/module-rebuild
 sys-power/hibernate-script
 sys-process/anacron
 sys-process/glances
@@ -110,6 +111,7 @@ x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 xfce-base/thunar
 xfce-base/xfce4-meta
+xfce-extra/thunar-archive-plugin
 xfce-extra/thunar-volman
 xfce-extra/tumbler
 xfce-extra/xfce4-genmon-plugin
