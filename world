@@ -1,4 +1,3 @@
-<sys-boot/grub-2
 app-admin/apache-tools
 app-admin/emacs-updater
 app-admin/logrotate
@@ -39,6 +38,7 @@ media-fonts/fantasque-sans
 media-fonts/fira-sans
 media-fonts/libertine-ttf
 media-fonts/terminus-font
+media-gfx/argyllcms
 media-gfx/feh
 media-gfx/gimp
 media-gfx/ristretto
@@ -67,12 +67,11 @@ sci-mathematics/genius
 sys-apps/mlocate
 sys-apps/the_silver_searcher
 sys-boot/grub
-sys-firmware/iwl5000-ucode
+sys-firmware/iwl1000-ucode
 sys-fs/dosfstools
 sys-fs/gt5
 sys-fs/ntfs3g
 sys-kernel/gentoo-sources
-sys-kernel/module-rebuild
 sys-power/hibernate-script
 sys-process/anacron
 sys-process/glances
@@ -89,7 +88,6 @@ x11-apps/xdpyinfo
 x11-apps/xev
 x11-apps/xmodmap
 x11-base/xorg-server
-x11-drivers/radeon-ucode
 x11-misc/dex
 x11-misc/dmenu
 x11-misc/dunst
