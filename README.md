@@ -49,6 +49,7 @@ On demand
 * app-text/sloccount
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
 * mail-client/mutt
+* media-gfx/gimp
 * media-gfx/openscad                 3D printer modeller
 * net-irc/weechat
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
