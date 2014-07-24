@@ -6,6 +6,7 @@ My Gentoo world.
 Installed
 ---------
 
+* app-misc/cv                        Linux tool to show progress for cp, rm, dd, ... <https://github.com/Xfennec/cv>
 * app-text/convmv                    convert filenames to utf8
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
 * media-fonts/fantasque-sans         fantastic monospace font

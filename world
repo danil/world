@@ -14,6 +14,7 @@ app-editors/nano
 app-editors/vim
 app-emulation/virtualbox
 app-misc/colordiff
+app-misc/cv
 app-misc/tmux
 app-office/libreoffice-bin
 app-portage/eix
