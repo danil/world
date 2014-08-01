@@ -17,6 +17,7 @@ app-editors/vim
 app-emulation/virtualbox
 app-misc/colordiff
 app-misc/cv
+app-misc/jq
 app-misc/tmux
 app-office/libreoffice-bin
 app-portage/eix
@@ -38,6 +39,7 @@ media-fonts/libertine-ttf
 media-fonts/terminus-font
 media-gfx/argyllcms
 media-gfx/feh
+media-gfx/gimp
 media-gfx/ristretto
 media-sound/alsa-utils
 media-sound/sox
@@ -53,6 +55,7 @@ net-misc/curl
 net-misc/dhcpcd
 net-misc/dropbox
 net-misc/httpie
+net-misc/mosh
 net-misc/ntp
 net-misc/tor
 net-misc/whois
@@ -102,6 +105,7 @@ x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 xfce-base/thunar
 xfce-base/xfce4-meta
+xfce-extra/thunar-archive-plugin
 xfce-extra/thunar-volman
 xfce-extra/tumbler
 xfce-extra/xfce4-genmon-plugin
