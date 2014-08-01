@@ -6,6 +6,7 @@ My Gentoo world.
 Installed
 ---------
 
+* app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
 * app-text/convmv                    convert filenames to utf8
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
 * media-fonts/fantasque-sans         fantastic monospace font
