@@ -59,6 +59,7 @@ net-misc/curl
 net-misc/dhcpcd
 net-misc/dropbox
 net-misc/httpie
+net-misc/mosh
 net-misc/ntp
 net-misc/tor
 net-misc/whois
