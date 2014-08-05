@@ -35,7 +35,6 @@ dev-util/ccache
 dev-vcs/git
 dev-vcs/tig
 gnome-extra/connman-gnome
-mail-client/thunderbird-bin
 media-fonts/dejavu
 media-fonts/fantasque-sans
 media-fonts/fira-sans
