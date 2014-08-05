@@ -9,6 +9,7 @@ app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/lzip
 app-arch/unrar
+app-arch/xarchiver
 app-cdr/simpleburn
 app-editors/leafpad
 app-editors/nano
@@ -34,6 +35,7 @@ dev-python/gnome-keyring-python
 dev-util/ccache
 dev-vcs/git
 dev-vcs/tig
+gnome-extra/connman-gnome
 mail-client/mutt
 media-fonts/dejavu
 media-fonts/fantasque-sans
@@ -64,7 +66,6 @@ net-misc/mosh
 net-misc/ntp
 net-misc/tor
 net-misc/whois
-net-misc/wicd
 net-proxy/torsocks
 net-wireless/rfkill
 sci-mathematics/genius
