@@ -6,26 +6,26 @@ My Gentoo world.
 Installed
 ---------
 
+* app-dicts/aspell-*                 emacs spell checker
+* app-misc/cv                        Linux tool to show progress for cp, rm, dd, ... <https://github.com/Xfennec/cv>
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
-* app-text/convmv                    convert filenames to utf8
-* dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
 * media-fonts/terminus-font          user in console (ter-v16n)
+* media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
+* net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
-* x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
-* x11-apps/xdpyinfo                  show dpi
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
 * x11-misc/i3lock                    xscreensaver replacement
@@ -40,6 +40,23 @@ Installed
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
+
+On demand
+---------
+
+* app-admin/apache-tools
+* app-text/convmv                    convert filenames to utf8
+* app-text/dos2unix
+* app-text/sloccount
+* dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* mail-client/mutt
+* media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-gfx/gimp
+* media-gfx/openscad                 3D printer modeller
+* net-irc/weechat
+* x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
+* x11-apps/xdpyinfo                  show dpi
+* x11-apps/xev
 
 Uninstalled
 -----------
