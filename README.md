@@ -34,6 +34,7 @@ Installed
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
 * x11-misc/xautolock                 used by i3lock
+* x11-misc/xclip                     tmux and xorg clipboard integration <https://github.com/tmux-plugins/tmux-yank#linux-requirements>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
