@@ -57,6 +57,7 @@ On demand
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-gfx/gimp
 * media-gfx/openscad                 3D printer modeller
+* net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
