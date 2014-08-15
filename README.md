@@ -61,7 +61,6 @@ On demand
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
-* x11-apps/xev
 
 Uninstalled
 -----------
