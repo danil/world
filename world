@@ -86,6 +86,7 @@ www-plugins/adobe-flash
 www-plugins/google-talkplugin
 www-servers/nginx
 x11-apps/xdm
+x11-apps/xev
 x11-apps/xmodmap
 x11-base/xorg-server
 x11-misc/dex
@@ -93,7 +94,7 @@ x11-misc/dmenu
 x11-misc/dunst
 x11-misc/i3lock
 x11-misc/parcellite
-x11-misc/skippy
+x11-misc/skippy-xd
 x11-misc/unclutter
 x11-misc/wmctrl
 x11-misc/xautolock
