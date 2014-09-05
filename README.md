@@ -49,6 +49,7 @@ On demand
 ---------
 
 * app-admin/apache-tools
+* app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/convmv                    convert filenames to utf8
 * app-text/dos2unix
 * app-text/sloccount
