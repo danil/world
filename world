@@ -30,9 +30,12 @@ app-shells/bash-completion
 app-text/evince
 app-text/stardict
 app-text/tree
+dev-libs/libyaml
 dev-python/gnome-keyring-python
 dev-util/ccache
+dev-util/source-highlight
 dev-vcs/git
+dev-vcs/git-extras
 dev-vcs/tig
 gnome-extra/connman-gnome
 media-fonts/dejavu
@@ -51,7 +54,6 @@ media-video/mpv
 net-dns/bind-tools
 net-ftp/lftp
 net-ftp/vsftpd
-net-im/gajim
 net-im/skype
 net-mail/dovecot
 net-mail/offlineimap
@@ -61,6 +63,7 @@ net-misc/dropbox
 net-misc/httpie
 net-misc/mosh
 net-misc/ntp
+net-misc/seafile-client
 net-misc/tor
 net-misc/whois
 net-proxy/torsocks
@@ -103,6 +106,7 @@ x11-misc/xclip
 x11-misc/xdotool
 x11-misc/xsel
 x11-misc/xxkb
+x11-plugins/pidgin-window_merge
 x11-terms/rxvt-unicode
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
