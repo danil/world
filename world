@@ -28,11 +28,13 @@ app-portage/gentoolkit
 app-portage/layman
 app-portage/portage-utils
 app-shells/bash-completion
+app-text/dos2unix
 app-text/evince
 app-text/stardict
 app-text/tree
 dev-python/gnome-keyring-python
 dev-util/ccache
+dev-util/source-highlight
 dev-vcs/git
 dev-vcs/tig
 gnome-extra/connman-gnome
@@ -51,7 +53,6 @@ media-video/mpv
 net-dns/bind-tools
 net-ftp/lftp
 net-ftp/vsftpd
-net-im/gajim
 net-im/skype
 net-mail/dovecot
 net-mail/offlineimap
@@ -102,6 +103,7 @@ x11-misc/xchainkeys
 x11-misc/xdotool
 x11-misc/xsel
 x11-misc/xxkb
+x11-plugins/pidgin-window_merge
 x11-terms/rxvt-unicode
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
