@@ -57,6 +57,7 @@ net-ftp/vsftpd
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd
+net-misc/mosh
 net-misc/ntp
 net-misc/telnet-bsd
 net-misc/whois
