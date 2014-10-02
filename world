@@ -27,6 +27,7 @@ app-portage/gentoolkit
 app-portage/layman
 app-portage/portage-utils
 app-shells/bash-completion
+app-text/dos2unix
 app-text/evince
 app-text/stardict
 app-text/tree
