@@ -70,6 +70,7 @@ net-misc/seafile-client
 net-misc/telnet-bsd
 net-misc/tor
 net-misc/whois
+net-p2p/bitcoin-qt
 net-proxy/torsocks
 net-wireless/bluez
 net-wireless/rfkill
