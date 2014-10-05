@@ -15,7 +15,7 @@ Installed
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
-* media-fonts/terminus-font          user in console (ter-v16n)
+* media-fonts/terminus-font          used in console (ter-v16n)
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
@@ -30,6 +30,7 @@ Installed
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
 * sci-mathematics/genius             console-based calculator
 * sys-apps/mdp                       presentation tool
+* sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
@@ -82,7 +83,6 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
-* sys-devel/bc                       replaced by genius
 * x11-misc/i3status                  generates status bar for i3
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 

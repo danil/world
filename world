@@ -57,6 +57,7 @@ net-misc/whois
 sci-mathematics/genius
 sys-apps/mlocate
 sys-apps/the_silver_searcher
+sys-devel/bc
 sys-fs/gt5
 sys-fs/sshfs-fuse
 sys-process/glances
