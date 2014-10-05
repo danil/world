@@ -22,7 +22,6 @@ app-portage/gentoolkit
 app-portage/layman
 app-portage/portage-utils
 app-shells/bash-completion
-app-text/catdoc
 app-text/dos2unix
 app-text/tree
 app-text/xmlto
