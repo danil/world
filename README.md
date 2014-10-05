@@ -11,6 +11,7 @@ Installed
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
+* dev-util/source-highlight          less filter
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
@@ -27,6 +28,7 @@ Installed
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
+* sci-mathematics/genius             console-based calculator
 * sys-apps/mdp                       presentation tool
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
@@ -49,13 +51,13 @@ Installed
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
-* dev-util/source-highlight          less filter
 
 On demand
 ---------
 
 * app-admin/apache-tools
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
+* app-text/catdoc                    convert doc, xls, ppt and rtf files to text
 * app-text/convmv                    convert filenames to utf8
 * app-text/dos2unix
 * app-text/sloccount
@@ -67,6 +69,12 @@ On demand
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
+* sys-apps/hdparm
+* sys-apps/iproute2
+* sys-apps/pciutils
+* sys-power/powertop
+* sys-process/atop
+* sys-process/iotop
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 
@@ -74,6 +82,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
+* sys-devel/bc                       replaced by genius
 * x11-misc/i3status                  generates status bar for i3
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 
