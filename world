@@ -7,6 +7,7 @@ app-admin/system-config-printer-gnome
 app-arch/arj
 app-arch/lzip
 app-arch/unrar
+app-arch/unzip
 app-arch/xarchiver
 app-cdr/simpleburn
 app-dicts/aspell-en
@@ -66,6 +67,7 @@ net-misc/httpie
 net-misc/mosh
 net-misc/ntp
 net-misc/seafile-client
+net-misc/telnet-bsd
 net-misc/tor
 net-misc/whois
 net-proxy/torsocks
@@ -76,6 +78,7 @@ sys-apps/mdp
 sys-apps/mlocate
 sys-apps/the_silver_searcher
 sys-boot/grub
+sys-devel/bc
 sys-firmware/iwl1000-ucode
 sys-fs/dosfstools
 sys-fs/gt5

@@ -11,10 +11,11 @@ Installed
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
+* dev-util/source-highlight          less filter
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
-* media-fonts/terminus-font          user in console (ter-v16n)
+* media-fonts/terminus-font          used in console (ter-v16n)
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
@@ -27,7 +28,9 @@ Installed
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
+* sci-mathematics/genius             console-based calculator
 * sys-apps/mdp                       presentation tool
+* sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
@@ -49,13 +52,13 @@ Installed
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
-* dev-util/source-highlight          less filter
 
 On demand
 ---------
 
 * app-admin/apache-tools
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
+* app-text/catdoc                    convert doc, xls, ppt and rtf files to text
 * app-text/convmv                    convert filenames to utf8
 * app-text/dos2unix
 * app-text/sloccount
@@ -67,6 +70,12 @@ On demand
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
+* sys-apps/hdparm
+* sys-apps/iproute2
+* sys-apps/pciutils
+* sys-power/powertop
+* sys-process/atop
+* sys-process/iotop
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 
