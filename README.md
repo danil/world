@@ -69,6 +69,7 @@ On demand
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
+* net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
 * sys-apps/hdparm
 * sys-apps/iproute2
