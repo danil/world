@@ -1,7 +1,5 @@
-Gentoo world
-============
-
-My Gentoo world.
+Gentoo worlds
+=============
 
 Installed
 ---------
