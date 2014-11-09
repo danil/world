@@ -54,6 +54,15 @@ Installed
 On demand
 ---------
 
+### Ruby on Rails
+
+* app-misc/sphinx
+* dev-db/mariadb
+* media-gfx/imagemagick
+* www-client/phantomjs
+
+### Other
+
 * app-admin/apache-tools
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/catdoc                    convert doc, xls, ppt and rtf files to text
