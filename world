@@ -59,6 +59,7 @@ net-ftp/lftp
 net-ftp/vsftpd
 net-im/skype
 net-mail/dovecot
+net-mail/mailutils
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd

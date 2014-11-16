@@ -12,6 +12,7 @@ Installed
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
 * dev-util/source-highlight          less filter
+* mail-mta/exim                      deliver local mail to /var/mail
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
@@ -23,6 +24,7 @@ Installed
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
+* net-mail/mailutils                 read local mail from /var/mail
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-misc/seafile-client            dropbox replacement
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
