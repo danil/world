@@ -40,6 +40,7 @@ dev-vcs/git
 dev-vcs/git-extras
 dev-vcs/tig
 gnome-extra/connman-gnome
+mail-mta/exim
 media-fonts/dejavu
 media-fonts/fantasque-sans
 media-fonts/fira-sans
@@ -61,7 +62,6 @@ net-mail/dovecot
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd
-net-misc/dropbox
 net-misc/httpie
 net-misc/mosh
 net-misc/ntp
