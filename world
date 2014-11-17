@@ -45,6 +45,7 @@ net-dns/bind-tools
 net-firewall/iptables
 net-ftp/lftp
 net-ftp/vsftpd
+net-mail/mailutils
 net-mail/offlineimap
 net-misc/curl
 net-misc/dhcpcd

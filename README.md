@@ -4,6 +4,13 @@ Gentoo worlds
 Installed
 ---------
 
+### Server
+
+* mail-mta/exim                      deliver local mail to /var/mail
+* net-mail/mailutils                 read local mail from /var/mail
+
+### Desktop
+
 * app-dicts/aspell-*                 emacs spell checker
 * app-misc/cv                        Linux tool to show progress for cp, rm, dd, ... <https://github.com/Xfennec/cv>
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
@@ -76,6 +83,7 @@ On demand
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
+* net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
 * sys-apps/hdparm
 * sys-apps/iproute2
