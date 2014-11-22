@@ -6,6 +6,13 @@ My Gentoo world.
 Installed
 ---------
 
+### Firmware
+
+* sys-firmware/iwl7260-ucode         wifi
+* sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
+
+### Desktop
+
 * app-dicts/aspell-*                 emacs spell checker
 * app-misc/cv                        Linux tool to show progress for cp, rm, dd, ... <https://github.com/Xfennec/cv>
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
@@ -58,6 +65,8 @@ Installed
 On demand
 ---------
 
+### Desktop
+
 * app-admin/apache-tools
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/catdoc                    convert doc, xls, ppt and rtf files to text
@@ -84,6 +93,8 @@ On demand
 
 Uninstalled
 -----------
+
+### Desktop
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * x11-misc/i3status                  generates status bar for i3

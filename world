@@ -80,7 +80,8 @@ sys-apps/mlocate
 sys-apps/the_silver_searcher
 sys-boot/grub
 sys-devel/bc
-sys-firmware/iwl1000-ucode
+sys-firmware/iwl7260-ucode
+sys-firmware/nvidia-firmware
 sys-fs/dosfstools
 sys-fs/gt5
 sys-fs/ntfs3g
