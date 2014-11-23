@@ -19,6 +19,7 @@ Installed
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
 * dev-util/source-highlight          less filter
+* lxqt-base/lxqt-powermanagement     stand alone power manager
 * mail-mta/exim                      deliver local mail to /var/mail
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
@@ -43,12 +44,12 @@ Installed
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
+* x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-apps/xev
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
 * x11-misc/i3lock                    xscreensaver replacement
-* x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/skippy-xd                 ala compiz scale (osx expose) <https://github.com/richardgv/skippy-xd>, <https://code.google.com/p/skippy-xd>
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
@@ -98,7 +99,9 @@ Uninstalled
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * x11-misc/i3status                  generates status bar for i3
+* x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
+* xfce-extra/xfce4-power-manager
 
 Copying
 -------
