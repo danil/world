@@ -14,7 +14,7 @@ Installed
 ### Desktop
 
 * app-dicts/aspell-*                 emacs spell checker
-* app-misc/cv                        Linux tool to show progress for cp, rm, dd, ... <https://github.com/Xfennec/cv>
+* app-misc/cv                        progress bar for cp, rm, dd, ... <https://github.com/Xfennec/cv>
 * app-misc/jq                        json console formater <http://stedolan.github.io/jq/tutorial>, <http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json#15231463>
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
@@ -65,6 +65,11 @@ Installed
 
 On demand
 ---------
+
+### Server
+
+* sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
+* sys-apps/usbutils                  lsusb
 
 ### Desktop
 
