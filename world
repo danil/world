@@ -42,6 +42,7 @@ dev-vcs/tig
 gnome-extra/connman-gnome
 lxqt-base/lxqt-powermanagement
 mail-mta/exim
+mail-mta/exim
 media-fonts/dejavu
 media-fonts/fantasque-sans
 media-fonts/fira-sans
@@ -91,6 +92,7 @@ sys-process/anacron
 sys-process/glances
 sys-process/htop
 sys-process/lsof
+sys-process/vixie-cron
 www-client/firefox-bin
 www-client/google-chrome
 www-plugins/adobe-flash

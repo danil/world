@@ -1,7 +1,5 @@
-Gentoo world
-============
-
-My Gentoo world.
+Gentoo worlds
+=============
 
 Firmware
 ========
@@ -20,12 +18,41 @@ Uninstalled
 Server
 ======
 
+Installed
+---------
+
+* app-text/dos2unix
+* mail-mta/exim                      deliver local mail to /var/mail
+* net-mail/mailutils                 read local mail from /var/mail
+
 On demand
 ---------
 
+* app-admin/apache-tools
+* app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
+* app-text/catdoc                    convert doc, xls, ppt and rtf files to text
+* app-text/convmv                    convert filenames to utf8
+* app-text/sloccount
+* dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* mail-client/mutt
+* media-gfx/openscad                 3D printer modeller
+* net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
+* net-mail/notmuch                   mail indexer <http://notmuchmail.org>
+* net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
+* sys-apps/hdparm
+* sys-apps/iproute2
 * sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
 * sys-apps/usbutils                  lsusb
+* sys-power/powertop
+* sys-process/atop
+* sys-process/iotop
 
+### Ruby on Rails
+
+* app-misc/sphinx
+* dev-db/mariadb
+* media-gfx/imagemagick
+* www-client/phantomjs
 
 Desktop
 =======
@@ -40,19 +67,18 @@ Installed
 * dev-util/source-highlight          highlighted source code in less
 * dev-util/source-highlight          less filter
 * lxqt-base/lxqt-powermanagement     stand alone power manager
-* mail-mta/exim                      deliver local mail to /var/mail
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
 * media-fonts/terminus-font          used in console (ter-v16n)
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-gfx/gimp
 * media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
 * media-gfx/wkhtmltopdf              html to pdf converter
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
-* net-mail/mailutils                 read local mail from /var/mail
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-misc/seafile-client            dropbox replacement
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
@@ -86,27 +112,8 @@ Installed
 On demand
 ---------
 
-* app-admin/apache-tools
-* app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
-* app-text/catdoc                    convert doc, xls, ppt and rtf files to text
-* app-text/convmv                    convert filenames to utf8
-* app-text/dos2unix
-* app-text/sloccount
-* dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
-* mail-client/mutt
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
-* media-gfx/gimp
-* media-gfx/openscad                 3D printer modeller
-* net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-irc/weechat
-* net-mail/notmuch                   mail indexer <http://notmuchmail.org>
-* net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
-* sys-apps/hdparm
-* sys-apps/iproute2
-* sys-apps/pciutils
-* sys-power/powertop
-* sys-process/atop
-* sys-process/iotop
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 
@@ -119,21 +126,8 @@ Uninstalled
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 * xfce-extra/xfce4-power-manager
 
-Copying
+License
 -------
 
-Copyright (C) 2014 Danil Kutkevich <danil@kutkevich.org>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. See COPYING file.
-If not, see <http://www.gnu.org/licenses/>.
+Copyright (C) 2014 Danil Kutkevich <danil@kutkevich.org>  
+See the LICENSE file for license rights and limitations (MIT)
