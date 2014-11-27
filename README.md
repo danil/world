@@ -3,15 +3,35 @@ Gentoo world
 
 My Gentoo world.
 
+Firmware
+========
+
 Installed
 ---------
-
-### Firmware
 
 * sys-firmware/iwl7260-ucode         wifi
 * sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
 
-### Desktop
+Uninstalled
+-----------
+
+* sys-firmware/iwl5000-ucode         wifi
+
+Server
+======
+
+On demand
+---------
+
+* sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
+* sys-apps/usbutils                  lsusb
+
+
+Desktop
+=======
+
+Installed
+---------
 
 * app-dicts/aspell-*                 emacs spell checker
 * app-misc/cv                        progress bar for cp, rm, dd, ... <https://github.com/Xfennec/cv>
@@ -66,13 +86,6 @@ Installed
 On demand
 ---------
 
-### Server
-
-* sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
-* sys-apps/usbutils                  lsusb
-
-### Desktop
-
 * app-admin/apache-tools
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/catdoc                    convert doc, xls, ppt and rtf files to text
@@ -99,8 +112,6 @@ On demand
 
 Uninstalled
 -----------
-
-### Desktop
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * x11-misc/i3status                  generates status bar for i3
