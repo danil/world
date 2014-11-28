@@ -42,7 +42,6 @@ dev-vcs/tig
 gnome-extra/connman-gnome
 lxqt-base/lxqt-powermanagement
 mail-mta/exim
-mail-mta/exim
 media-fonts/dejavu
 media-fonts/fantasque-sans
 media-fonts/fira-sans
@@ -99,10 +98,10 @@ www-plugins/adobe-flash
 www-plugins/google-talkplugin
 www-servers/nginx
 x11-apps/xbacklight
-x11-apps/xdm
 x11-apps/xev
 x11-apps/xmodmap
 x11-base/xorg-server
+x11-misc/cdm
 x11-misc/dex
 x11-misc/dmenu
 x11-misc/dunst
@@ -120,7 +119,6 @@ x11-plugins/pidgin-window_merge
 x11-terms/rxvt-unicode
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
-x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 xfce-base/thunar

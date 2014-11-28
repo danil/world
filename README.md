@@ -91,8 +91,8 @@ Installed
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
 * x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
-* x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-apps/xev
+* x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
 * x11-misc/i3lock                    xscreensaver replacement
@@ -121,6 +121,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
+* x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-misc/i3status                  generates status bar for i3
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
