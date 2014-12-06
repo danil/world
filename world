@@ -39,7 +39,6 @@ dev-util/source-highlight
 dev-vcs/git
 dev-vcs/git-extras
 dev-vcs/tig
-gnome-extra/connman-gnome
 lxqt-base/lxqt-powermanagement
 mail-mta/exim
 media-fonts/dejavu
@@ -61,6 +60,7 @@ net-im/skype
 net-mail/dovecot
 net-mail/mailutils
 net-mail/offlineimap
+net-misc/connman-ui
 net-misc/curl
 net-misc/dhcpcd
 net-misc/httpie

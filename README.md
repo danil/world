@@ -79,6 +79,7 @@ Installed
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
+* net-misc/connman-ui                wifi tray icon
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-misc/seafile-client            dropbox replacement
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
@@ -113,6 +114,7 @@ On demand
 ---------
 
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * net-irc/weechat
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
@@ -121,6 +123,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
+* gnome-extra/connman-gnome          wifi tray icon
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-misc/i3status                  generates status bar for i3
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
