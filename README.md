@@ -115,6 +115,7 @@ On demand
 
 * media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
+* media-tv/popcorntime               torrent video player
 * net-irc/weechat
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
