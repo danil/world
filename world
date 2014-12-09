@@ -40,7 +40,6 @@ dev-util/source-highlight
 dev-vcs/git
 dev-vcs/git-extras
 dev-vcs/tig
-gnome-extra/connman-gnome
 lxqt-base/lxqt-powermanagement
 mail-mta/exim
 media-fonts/dejavu
@@ -62,6 +61,7 @@ net-im/skype
 net-mail/dovecot
 net-mail/mailutils
 net-mail/offlineimap
+net-misc/connman-ui
 net-misc/curl
 net-misc/dhcpcd
 net-misc/httpie
@@ -98,11 +98,11 @@ www-plugins/adobe-flash
 www-plugins/google-talkplugin
 www-servers/nginx
 x11-apps/xbacklight
-x11-apps/xdm
 x11-apps/xev
 x11-apps/xmodmap
 x11-base/xorg-server
 x11-drivers/radeon-ucode
+x11-misc/cdm
 x11-misc/dex
 x11-misc/dmenu
 x11-misc/dunst
@@ -120,7 +120,6 @@ x11-plugins/pidgin-window_merge
 x11-terms/rxvt-unicode
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
-x11-themes/slim-theme-larry-abducted-by-znurt
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 xfce-base/thunar
