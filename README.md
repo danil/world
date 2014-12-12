@@ -34,6 +34,7 @@ On demand
 * app-text/convmv                    convert filenames to utf8
 * app-text/sloccount
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* dev-util/indent                    reformats c/c++ indentation
 * mail-client/mutt
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
