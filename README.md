@@ -14,6 +14,7 @@ Uninstalled
 -----------
 
 * sys-firmware/iwl5000-ucode         wifi
+* sys-kernel/linux-firmware          wifi
 
 Server
 ======
@@ -97,7 +98,9 @@ Installed
 * x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
+* x11-misc/dzen                      status bar
 * x11-misc/i3lock                    xscreensaver replacement
+* x11-misc/i3status                  generate status for dzen2 status bar
 * x11-misc/skippy-xd                 ala compiz scale (osx expose) <https://github.com/richardgv/skippy-xd>, <https://code.google.com/p/skippy-xd>
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
@@ -110,6 +113,17 @@ Installed
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
+
+Xfce
+----
+
+x11-themes/gtk-engines-xfce:0
+x11-themes/hicolor-icon-theme
+xfce-base/xfce4-appfinder
+xfce-base/xfce4-session
+xfce-base/xfce4-settings
+xfce-base/xfdesktop
+xfce-base/xfwm4
 
 On demand
 ---------
@@ -127,7 +141,6 @@ Uninstalled
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * gnome-extra/connman-gnome          wifi tray icon
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
-* x11-misc/i3status                  generates status bar for i3
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 * xfce-extra/xfce4-power-manager
