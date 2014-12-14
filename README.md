@@ -72,7 +72,6 @@ Installed
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
 * media-fonts/terminus-font          used in console (ter-v16n)
-* media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-gfx/gimp
 * media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
@@ -104,6 +103,7 @@ Installed
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
 * x11-misc/xautolock                 used by i3lock
+* x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 * x11-misc/xclip                     tmux and xorg clipboard integration <https://github.com/tmux-plugins/tmux-yank#linux-requirements>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
@@ -127,7 +127,7 @@ xfce-base/xfwm4
 On demand
 ---------
 
-* media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * media-tv/popcorntime               torrent video player
 * net-irc/weechat
