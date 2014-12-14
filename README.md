@@ -23,6 +23,7 @@ Installed
 ---------
 
 * app-text/dos2unix
+* dev-util/icdiff                    two columns diff
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 
