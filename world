@@ -35,6 +35,7 @@ app-text/tree
 dev-libs/libyaml
 dev-python/gnome-keyring-python
 dev-util/ccache
+dev-util/icdiff
 dev-util/source-highlight
 dev-vcs/git
 dev-vcs/git-extras
