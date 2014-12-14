@@ -92,6 +92,7 @@ Installed
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
+* x11-apps/wmutils                   get active window `pfw` and kill it `killw` <https://github.com/wmutils/core> 
 * x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
 * x11-apps/xev
 * x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
