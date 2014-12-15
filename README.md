@@ -23,6 +23,7 @@ Installed
 ---------
 
 * app-text/dos2unix
+* dev-util/icdiff                    two columns diff
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 
@@ -73,7 +74,6 @@ Installed
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
 * media-fonts/terminus-font          used in console (ter-v16n)
-* media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-gfx/gimp
 * media-gfx/pngcrush                 PNG image size optimizing <http://en.wikipedia.org/wiki/Pngcrush>
 * media-gfx/ristretto                xfce image viewer <https://wiki.xfce.org/recommendedapps#ristretto>, <http://www.ohloh.net/p/ristretto>
@@ -93,6 +93,7 @@ Installed
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
 * sys-process/glances                htop replacement <https://github.com/nicolargo/glances>
+* x11-apps/wmutils                   get active window `pfw` and kill it `killw` <https://github.com/wmutils/core> 
 * x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
 * x11-apps/xev
 * x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
@@ -128,12 +129,13 @@ xfce-base/xfwm4
 On demand
 ---------
 
-* media-gfx/argyllcms                fix t400s default display colors <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * media-tv/popcorntime               torrent video player
 * net-irc/weechat
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
+* x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 
 Uninstalled
 -----------
