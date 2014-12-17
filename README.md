@@ -81,7 +81,7 @@ Installed
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
-* net-misc/connman-ui                wifi tray icon
+* gnome-extra/connman-gnome          wifi tray icon
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-misc/seafile-client            dropbox replacement
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
@@ -141,7 +141,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
-* gnome-extra/connman-gnome          wifi tray icon
+* net-misc/connman-ui                wifi tray icon
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
