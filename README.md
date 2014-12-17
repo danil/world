@@ -36,6 +36,7 @@ On demand
 * app-text/convmv                    convert filenames to utf8
 * app-text/sloccount
 * dev-perl/rename                    rename files by regexp <http://stackoverflow.com/questions/2709458/bash-script-to-replace-spaces-in-file-names#2709619>
+* dev-util/indent                    reformats c/c++ indentation
 * mail-client/mutt
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
@@ -68,6 +69,7 @@ Installed
 * dev-libs/libyaml                   required by RVM
 * dev-util/source-highlight          highlighted source code in less
 * dev-util/source-highlight          less filter
+* gnome-extra/connman-gnome          wifi tray icon
 * lxqt-base/lxqt-powermanagement     stand alone power manager
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
@@ -80,7 +82,6 @@ Installed
 * media-sound/sox                    `play` audio files from cli
 * media-video/mpv                    mplayer replacement <https://github.com/mpv-player/mpv>
 * net-dns/bind-tools                 `dig`, `host` and `nslookup`
-* net-misc/connman-ui                wifi tray icon
 * net-misc/httpie                    curl replacement <http://httpie.org>
 * net-misc/seafile-client            dropbox replacement
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
@@ -140,7 +141,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
-* gnome-extra/connman-gnome          wifi tray icon
+* net-misc/connman-ui                wifi tray icon
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
