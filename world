@@ -41,7 +41,6 @@ dev-vcs/git
 dev-vcs/git-extras
 dev-vcs/tig
 gnome-extra/connman-gnome
-lxqt-base/lxqt-powermanagement
 mail-mta/exim
 media-fonts/dejavu
 media-fonts/fantasque-sans
@@ -53,7 +52,6 @@ media-gfx/gimp
 media-gfx/pngcrush
 media-gfx/ristretto
 media-sound/alsa-utils
-media-sound/pnmixer
 media-sound/sox
 media-video/mpv
 net-dns/bind-tools

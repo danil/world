@@ -70,7 +70,6 @@ Installed
 * dev-util/source-highlight          highlighted source code in less
 * dev-util/source-highlight          less filter
 * gnome-extra/connman-gnome          wifi tray icon
-* lxqt-base/lxqt-powermanagement     stand alone power manager
 * media-fonts/fantasque-sans         fantastic monospace font
 * media-fonts/fira-sans              thin sans font
 * media-fonts/libertine-ttf          sans-serif font used by Wikipedia
@@ -141,6 +140,7 @@ Uninstalled
 -----------
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
+* lxqt-base/lxqt-powermanagement     stand alone power manager
 * net-misc/connman-ui                wifi tray icon
 * x11-apps/xdm                       starting slim display manager <http://wiki.gentoo.org/wiki/SLiM#OpenRC>
 * x11-misc/parcellite                copy and paste between xorg and terminal clipboard
