@@ -42,7 +42,7 @@ On demand
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
-* sys-apps/hdparm
+* sys-apps/hdparm                    SSD TRIM verify <https://wiki.archlinux.org/index.php/Solid_State_Drives#Verify_TRIM_Support>
 * sys-apps/iproute2
 * sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
 * sys-apps/usbutils                  lsusb
