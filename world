@@ -27,6 +27,7 @@ app-text/tree
 app-text/xmlto
 dev-libs/libyaml
 dev-util/ccache
+dev-util/icdiff
 dev-util/source-highlight
 dev-vcs/git
 dev-vcs/git-extras
@@ -53,6 +54,7 @@ net-misc/httpie
 net-misc/mosh
 net-misc/ntp
 net-misc/telnet-bsd
+net-misc/tlsdate
 net-misc/whois
 sci-mathematics/genius
 sys-apps/mlocate
