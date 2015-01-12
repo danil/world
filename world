@@ -65,9 +65,9 @@ net-misc/curl
 net-misc/dhcpcd
 net-misc/httpie
 net-misc/mosh
-net-misc/ntp
 net-misc/seafile-client
 net-misc/telnet-bsd
+net-misc/tlsdate
 net-misc/tor
 net-misc/whois
 net-p2p/bitcoin-qt
