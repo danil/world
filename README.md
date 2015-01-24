@@ -24,6 +24,7 @@ Installed
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
+* sys-apps/lsb-release               release version compliant to Linux Standard Base (LSB)
 
 On demand
 ---------
