@@ -20,6 +20,7 @@ Installed
 
 * app-admin/apache-tools
 * app-text/dos2unix
+* dev-db/sqlite                      used by feed2email ruby gem
 * dev-util/icdiff                    two columns diff
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
