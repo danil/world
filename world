@@ -120,7 +120,7 @@ x11-misc/xdotool
 x11-misc/xsel
 x11-misc/xxkb
 x11-plugins/pidgin-window_merge
-x11-terms/rxvt-unicode
+x11-terms/st
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
 x11-themes/gtk-engines-xfce:0
