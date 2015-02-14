@@ -30,6 +30,7 @@ app-portage/portage-utils
 app-shells/bash-completion
 app-text/dos2unix
 app-text/evince
+app-text/sloccount
 app-text/stardict
 app-text/tree
 dev-libs/libyaml
@@ -127,6 +128,7 @@ x11-themes/gtk-engines-xfce:0
 x11-themes/hicolor-icon-theme
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
+x11-wm/dwm
 xfce-base/thunar
 xfce-base/xfce4-appfinder
 xfce-base/xfce4-session
