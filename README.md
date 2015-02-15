@@ -115,17 +115,6 @@ Installed
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
-Xfce
-----
-
-x11-themes/gtk-engines-xfce:0
-x11-themes/hicolor-icon-theme
-xfce-base/xfce4-appfinder
-xfce-base/xfce4-session
-xfce-base/xfce4-settings
-xfce-base/xfdesktop
-xfce-base/xfwm4
-
 On demand
 ---------
 
@@ -136,6 +125,17 @@ On demand
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
+
+Xfce
+----
+
+x11-themes/gtk-engines-xfce:0
+x11-themes/hicolor-icon-theme
+xfce-base/xfce4-appfinder
+xfce-base/xfce4-session
+xfce-base/xfce4-settings
+xfce-base/xfdesktop
+xfce-base/xfwm4
 
 Uninstalled
 -----------
