@@ -116,6 +116,16 @@ Installed
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
+On demand
+---------
+
+* media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
+* media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
+* media-tv/popcorntime               torrent video player
+* net-irc/weechat
+* x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
+* x11-apps/xdpyinfo                  show dpi
+
 Xfce
 ----
 
@@ -126,16 +136,6 @@ xfce-base/xfce4-session
 xfce-base/xfce4-settings
 xfce-base/xfdesktop
 xfce-base/xfwm4
-
-On demand
----------
-
-* media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
-* media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
-* media-tv/popcorntime               torrent video player
-* net-irc/weechat
-* x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
-* x11-apps/xdpyinfo                  show dpi
 
 Uninstalled
 -----------

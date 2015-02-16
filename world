@@ -30,6 +30,7 @@ app-portage/portage-utils
 app-shells/bash-completion
 app-text/dos2unix
 app-text/evince
+app-text/sloccount
 app-text/stardict
 app-text/tree
 dev-libs/libyaml
@@ -117,16 +118,16 @@ x11-misc/xcalib
 x11-misc/xchainkeys
 x11-misc/xclip
 x11-misc/xdotool
-x11-misc/xsel
 x11-misc/xxkb
 x11-plugins/pidgin-window_merge
-x11-terms/rxvt-unicode
+x11-terms/st
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
 x11-themes/gtk-engines-xfce:0
 x11-themes/hicolor-icon-theme
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
+x11-wm/dwm
 xfce-base/thunar
 xfce-base/xfce4-appfinder
 xfce-base/xfce4-session
