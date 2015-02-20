@@ -108,7 +108,7 @@ Installed
 * x11-misc/xautolock                 used by i3lock
 * x11-misc/xclip                     tmux and xorg clipboard integration <https://github.com/tmux-plugins/tmux-yank#linux-requirements>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
-* x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+* x11-misc/xsel                      copy selection in termina to the xorg clipboard (used by emacs and urxvt) <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
 * x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
