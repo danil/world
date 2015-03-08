@@ -26,8 +26,6 @@ app-text/dos2unix
 app-text/sloccount
 app-text/tree
 app-text/xmlto
-dev-db/sqlite
-dev-db/sqlite
 dev-libs/libyaml
 dev-util/ccache
 dev-util/icdiff
@@ -59,7 +57,6 @@ net-misc/telnet-bsd
 net-misc/tlsdate
 net-misc/whois
 sci-mathematics/genius
-sys-apps/lsb-release
 sys-apps/lsb-release
 sys-apps/mlocate
 sys-apps/the_silver_searcher
