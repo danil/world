@@ -76,6 +76,7 @@ net-proxy/torsocks
 net-wireless/bluez
 net-wireless/rfkill
 sci-mathematics/genius
+sys-apps/lsb-release
 sys-apps/mdp
 sys-apps/mlocate
 sys-apps/the_silver_searcher
