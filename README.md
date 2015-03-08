@@ -7,6 +7,7 @@
 ### h9
 
 * sys-firmware/iwl7260-ucode         wifi
+* sys-power/bbswitch                 disable discrete video card
 
 ### h10
 
