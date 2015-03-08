@@ -7,7 +7,7 @@
 ### h9
 
 * sys-firmware/iwl7260-ucode         wifi
-* sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
+* sys-power/bbswitch                 disable discrete video card
 
 ### h10
 
@@ -16,6 +16,7 @@
 ## Uninstalled
 
 * sys-firmware/iwl5000-ucode         wifi
+* sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
 
 # Server
 
