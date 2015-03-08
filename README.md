@@ -92,7 +92,7 @@
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
 * sci-mathematics/genius             console-based calculator
-* sys-apps/mdp                       presentation tool
+* sys-apps/mdp                       markdown presentation tool
 * sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
