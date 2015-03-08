@@ -1,24 +1,26 @@
-Gentoo worlds
-=============
+# Gentoo worlds
 
-Firmware
-========
+# Firmware
 
-Uninstalled
------------
+## Installed
 
-* sys-firmware/iwl5000-ucode         wifi
+### h9
+
 * sys-firmware/iwl7260-ucode         wifi
 * sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
+
+### h10
+
 * sys-kernel/linux-firmware          wifi
 
-Server
-======
+## Uninstalled
 
-Installed
----------
+* sys-firmware/iwl5000-ucode         wifi
 
-* app-admin/apache-tools
+# Server
+
+## Installed
+
 * app-text/dos2unix
 * dev-db/sqlite                      used by feed2email ruby gem
 * dev-util/icdiff                    two columns diff
@@ -27,8 +29,11 @@ Installed
 * net-misc/tlsdate                   ntp replacement
 * sys-apps/lsb-release               release version compliant to Linux Standard Base (LSB)
 
-On demand
----------
+### h2
+
+* app-admin/apache-tools
+
+## On demand
 
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/catdoc                    convert doc, xls, ppt and rtf files to text
@@ -41,7 +46,7 @@ On demand
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
-* sys-apps/hdparm
+* sys-apps/hdparm                    SSD TRIM verify <https://wiki.archlinux.org/index.php/Solid_State_Drives#Verify_TRIM_Support>
 * sys-apps/iproute2
 * sys-apps/pciutils                  lspci <https://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?style=printable&part=1&chap=7#doc_chap2>
 * sys-apps/usbutils                  lsusb
@@ -56,11 +61,9 @@ On demand
 * media-gfx/imagemagick
 * www-client/phantomjs
 
-Desktop
-=======
+# Desktop
 
-Installed
----------
+## Installed
 
 * app-dicts/aspell-*                 emacs spell checker
 * app-misc/cv                        progress bar for cp, rm, dd, ... <https://github.com/Xfennec/cv>
@@ -94,6 +97,7 @@ Installed
 * x11-apps/wmutils                   get active window `pfw` and kill it `killw` <https://github.com/wmutils/core> 
 * x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
 * x11-apps/xev
+* x11-apps/xrandr                    enable/disable external monitor
 * x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
@@ -106,26 +110,14 @@ Installed
 * x11-misc/xautolock                 used by i3lock
 * x11-misc/xclip                     tmux and xorg clipboard integration <https://github.com/tmux-plugins/tmux-yank#linux-requirements>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
-* x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+* x11-misc/xsel                      copy selection in termina to the xorg clipboard (used by emacs and urxvt) <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
 * x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
-Xfce
-----
-
-x11-themes/gtk-engines-xfce:0
-x11-themes/hicolor-icon-theme
-xfce-base/xfce4-appfinder
-xfce-base/xfce4-session
-xfce-base/xfce4-settings
-xfce-base/xfdesktop
-xfce-base/xfwm4
-
-On demand
----------
+## On demand
 
 * media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
@@ -135,8 +127,17 @@ On demand
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 
-Uninstalled
------------
+## Xfce
+
+x11-themes/gtk-engines-xfce:0
+x11-themes/hicolor-icon-theme
+xfce-base/xfce4-appfinder
+xfce-base/xfce4-session
+xfce-base/xfce4-settings
+xfce-base/xfdesktop
+xfce-base/xfwm4
+
+## Uninstalled
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * lxqt-base/lxqt-powermanagement     stand alone power manager
@@ -146,8 +147,7 @@ Uninstalled
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 * xfce-extra/xfce4-power-manager
 
-License
--------
+# License
 
 Copyright (C) 2014 Danil Kutkevich <danil@kutkevich.org>  
-See the LICENSE file for license rights and limitations (MIT)
+See the `LICENSE` file for license rights and limitations (MIT)

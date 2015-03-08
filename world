@@ -23,8 +23,10 @@ app-portage/layman
 app-portage/portage-utils
 app-shells/bash-completion
 app-text/dos2unix
+app-text/sloccount
 app-text/tree
 app-text/xmlto
+dev-db/sqlite
 dev-db/sqlite
 dev-libs/libyaml
 dev-util/ccache
@@ -58,9 +60,11 @@ net-misc/tlsdate
 net-misc/whois
 sci-mathematics/genius
 sys-apps/lsb-release
+sys-apps/lsb-release
 sys-apps/mlocate
 sys-apps/the_silver_searcher
 sys-devel/bc
+sys-fs/dosfstools
 sys-fs/gt5
 sys-fs/sshfs-fuse
 sys-process/glances
