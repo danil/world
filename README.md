@@ -1,37 +1,40 @@
-Gentoo worlds
-=============
+# Gentoo worlds
 
-Firmware
-========
+# Firmware
 
-Installed
----------
+## Installed
+
+### h9
+
+* sys-firmware/iwl7260-ucode         wifi
+* sys-power/bbswitch                 disable discrete video card
+
+### h10
 
 * sys-kernel/linux-firmware          wifi
 
-Uninstalled
------------
+## Uninstalled
 
 * sys-firmware/iwl5000-ucode         wifi
-* sys-firmware/iwl7260-ucode         wifi
 * sys-firmware/nvidia-firmware       kernel and mesa firmware for nouveau video acceleration
 
-Server
-======
+# Server
 
-Installed
----------
+## Installed
 
 * app-text/dos2unix
 * dev-util/icdiff                    two columns diff
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
+* sys-apps/lsb-release               release version compliant to Linux Standard Base (LSB)
 
-On demand
----------
+### h2
 
 * app-admin/apache-tools
+
+## On demand
+
 * app-misc/reptyr                    move running program to tmux <https://github.com/nelhage/reptyr>
 * app-text/catdoc                    convert doc, xls, ppt and rtf files to text
 * app-text/convmv                    convert filenames to utf8
@@ -58,11 +61,13 @@ On demand
 * media-gfx/imagemagick
 * www-client/phantomjs
 
-Desktop
-=======
+## Uninstalled
 
-Installed
----------
+* dev-db/sqlite                      used by feed2email ruby gem
+
+# Desktop
+
+## Installed
 
 * app-dicts/aspell-*                 emacs spell checker
 * app-misc/cv                        progress bar for cp, rm, dd, ... <https://github.com/Xfennec/cv>
@@ -88,7 +93,7 @@ Installed
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
 * sci-mathematics/genius             console-based calculator
-* sys-apps/mdp                       presentation tool
+* sys-apps/mdp                       markdown presentation tool
 * sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
 * sys-power/hibernate-script         `hibernate` and `hibernate-ram` s3 aka suspend to ram aka sleep
@@ -107,18 +112,16 @@ Installed
 * x11-misc/unclutter                 hide mouse cursor after while <https://wiki.archlinux.org/index.php/unclutter>
 * x11-misc/wmctrl                    show desktop and more <http://rox.sourceforge.net/desktop/book/export/html/188.html>
 * x11-misc/xautolock                 used by i3lock
-* x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 * x11-misc/xclip                     tmux and xorg clipboard integration <https://github.com/tmux-plugins/tmux-yank#linux-requirements>
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
-* x11-misc/xsel                      copy selection in termina to the xorg clipboard <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
+* x11-misc/xsel                      copy selection in termina to the xorg clipboard (used by emacs and urxvt) <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
 * x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
 * xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
 * xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
-On demand
----------
+## On demand
 
 * media-gfx/argyllcms                load icc/icm display color profiles <https://wiki.archlinux.org/index.php/ICC_Profiles#Argyll_CMS>
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
@@ -126,9 +129,9 @@ On demand
 * net-irc/weechat
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
+* x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 
-Xfce
-----
+## Xfce
 
 x11-themes/gtk-engines-xfce:0
 x11-themes/hicolor-icon-theme
@@ -138,8 +141,7 @@ xfce-base/xfce4-settings
 xfce-base/xfdesktop
 xfce-base/xfwm4
 
-Uninstalled
------------
+## Uninstalled
 
 * app-text/mupdf                     pdf viewer recommended by xfce (unfortunately there is no toc) <https://wiki.xfce.org/recommendedapps#mupdf>
 * lxqt-base/lxqt-powermanagement     stand alone power manager
@@ -149,8 +151,7 @@ Uninstalled
 * x11-misc/tint2                     does not work in stumpwm <https://code.google.com/p/tint2/issues/detail?id=157>
 * xfce-extra/xfce4-power-manager
 
-License
--------
+# License
 
 Copyright (C) 2014 Danil Kutkevich <danil@kutkevich.org>  
 See the `LICENSE` file for license rights and limitations (MIT)
