@@ -43,6 +43,7 @@ dev-util/icdiff
 dev-util/source-highlight
 dev-vcs/git
 dev-vcs/git-extras
+dev-vcs/mercurial
 dev-vcs/tig
 gnome-extra/connman-gnome
 mail-mta/exim
