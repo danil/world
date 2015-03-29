@@ -17,6 +17,7 @@ app-dicts/stardict-quick-ru-en
 app-editors/leafpad
 app-editors/nano
 app-editors/vim
+app-emulation/docker
 app-emulation/virtualbox
 app-misc/colordiff
 app-misc/cv
@@ -33,6 +34,8 @@ app-text/evince
 app-text/sloccount
 app-text/stardict
 app-text/tree
+dev-db/postgresql
+dev-lang/go
 dev-libs/libyaml
 dev-python/gnome-keyring-python
 dev-util/ccache
