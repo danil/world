@@ -103,6 +103,7 @@ www-client/google-chrome
 www-plugins/adobe-flash
 www-plugins/google-talkplugin
 www-servers/nginx
+www-servers/quark
 x11-apps/wmutils
 x11-apps/xbacklight
 x11-apps/xev
