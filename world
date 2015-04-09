@@ -131,17 +131,10 @@ x11-plugins/pidgin-window_merge
 x11-terms/st
 x11-themes/faenza-icon-theme
 x11-themes/gtk-chtheme
-x11-themes/gtk-engines-xfce:0
-x11-themes/hicolor-icon-theme
 x11-themes/sound-theme-freedesktop
 x11-themes/vanilla-dmz-xcursors
 x11-wm/dwm
 xfce-base/thunar
-xfce-base/xfce4-appfinder
-xfce-base/xfce4-session
-xfce-base/xfce4-settings
-xfce-base/xfdesktop
-xfce-base/xfwm4
 xfce-extra/thunar-archive-plugin
 xfce-extra/thunar-volman
 xfce-extra/tumbler
