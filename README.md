@@ -28,6 +28,7 @@
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
 * sys-apps/lsb-release               release version compliant to Linux Standard Base (LSB)
+* sci-mathematics/genius             console-based calculator
 
 ### h2
 
@@ -93,7 +94,6 @@
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
-* sci-mathematics/genius             console-based calculator
 * sys-apps/mdp                       markdown presentation tool
 * sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
