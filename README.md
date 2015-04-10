@@ -128,6 +128,7 @@
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * media-tv/popcorntime               torrent video player
 * net-irc/weechat
+* sci-geosciences/gpsbabel           gps track points reduce (for garmin ad others) <http://gpsbabel.org/htmldoc-development/filter_simplify.html>
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
