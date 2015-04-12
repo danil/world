@@ -46,6 +46,7 @@
 * mail-client/mutt
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
+* net-mail/mlmmj                     mailing list management in succless tradition <http://mlmmj.org/>
 * net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/socat                     curl for unix sockets (request/response)
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
