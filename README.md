@@ -27,6 +27,7 @@
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
+* sci-mathematics/genius             console-based calculator
 * sys-apps/lsb-release               release version compliant to Linux Standard Base (LSB)
 
 ### h2
@@ -45,6 +46,7 @@
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
 * net-mail/notmuch                   mail indexer <http://notmuchmail.org>
+* net-misc/socat                     curl for unix sockets (request/response)
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
 * sys-apps/hdparm                    SSD TRIM verify <https://wiki.archlinux.org/index.php/Solid_State_Drives#Verify_TRIM_Support>
 * sys-apps/iproute2
@@ -92,7 +94,6 @@
 * net-proxy/torsocks                 torify (tor wraper) will fail if you do not have torsocks installed <http://wiki.gentoo.org/wiki/Tor#Torify>
 * net-wireless/bluez                 /etc/init.d/bluetooth start <http://wiki.gentoo.org/wiki/Bluetooth#Boot_service>
 * net-wireless/rfkill                enabled bluetooth <http://wiki.gentoo.org/wiki/Bluetooth#Software>
-* sci-mathematics/genius             console-based calculator
 * sys-apps/mdp                       markdown presentation tool
 * sys-devel/bc                       used by bash prompt
 * sys-fs/gt5                         baobab replacement; diskspace usage <http://gt5.sourceforge.net>
@@ -127,6 +128,7 @@
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * media-tv/popcorntime               torrent video player
 * net-irc/weechat
+* sci-geosciences/gpsbabel           gps track points reduce (garmin etrex 20 supports 250 points per route) <http://gpsbabel.org/htmldoc-development/filter_simplify.html>, <https://support.garmin.com/support/searchSupport/case.faces?caseId=%7B0b02f820-03db-11e0-e050-000000000000%7D>
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
