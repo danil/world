@@ -24,6 +24,7 @@
 
 * app-text/dos2unix
 * dev-util/icdiff                    two columns diff
+* dev-vcs/hgview                     tig for hg (mercurial ncurses tui interface)
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
