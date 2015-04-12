@@ -117,10 +117,9 @@
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard (used by emacs and urxvt) <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
+* x11-themes/flatstudio              dark (black) gtk 2/3 theme
 * x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
-* xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
-* xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 ## On demand
 
@@ -135,13 +134,15 @@
 
 ## Xfce
 
-x11-themes/gtk-engines-xfce:0
-x11-themes/hicolor-icon-theme
-xfce-base/xfce4-appfinder
-xfce-base/xfce4-session
-xfce-base/xfce4-settings
-xfce-base/xfdesktop
-xfce-base/xfwm4
+* x11-themes/gtk-engines-xfce:0
+* x11-themes/hicolor-icon-theme
+* xfce-base/xfce4-appfinder
+* xfce-base/xfce4-session
+* xfce-base/xfce4-settings
+* xfce-base/xfdesktop
+* xfce-base/xfwm4
+* xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
+* xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 ## Uninstalled
 
