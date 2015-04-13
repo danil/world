@@ -24,6 +24,7 @@
 
 * app-text/dos2unix
 * dev-util/icdiff                    two columns diff
+* dev-vcs/hgview                     tig for hg (mercurial ncurses tui interface)
 * mail-mta/exim                      deliver local mail to /var/mail
 * net-mail/mailutils                 read local mail from /var/mail
 * net-misc/tlsdate                   ntp replacement
@@ -45,6 +46,7 @@
 * mail-client/mutt
 * media-gfx/openscad                 3D printer modeller
 * net-analyzer/masscan               port scanner <https://github.com/robertdavidgraham/masscan>
+* net-mail/mlmmj                     mailing list management in succless tradition <http://mlmmj.org/>
 * net-mail/notmuch                   mail indexer <http://notmuchmail.org>
 * net-misc/socat                     curl for unix sockets (request/response)
 * net-misc/wrk                       HTTP benchmarking <https://github.com/wg/wrk>
@@ -117,10 +119,9 @@
 * x11-misc/xdotool                   simulate keyboard input in xchainkeys
 * x11-misc/xsel                      copy selection in termina to the xorg clipboard (used by emacs and urxvt) <https://wiki.archlinux.org/index.php/rxvt-unicode#Automatic_Script_Management>
 * x11-misc/xxkb                      keyboard layout indicator for tray
+* x11-themes/flatstudio              dark (black) gtk 2/3 theme
 * x11-themes/sound-theme-freedesktop my 'complete' sound
 * xfce-extra/tumbler                 thumbnails generator for thunar and ristretto <https://wiki.archlinux.org/index.php/thunar#Plugins_and_addons>, <http://www.ohloh.net/p/tumbler>
-* xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
-* xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 ## On demand
 
@@ -128,20 +129,22 @@
 * media-libs/hal-flash               drm video support <https://github.com/cshorler/hal-flash>
 * media-tv/popcorntime               torrent video player
 * net-irc/weechat
-* sci-geosciences/gpsbabel           gps track points reduce (for garmin ad others) <http://gpsbabel.org/htmldoc-development/filter_simplify.html>
+* sci-geosciences/gpsbabel           gps track points reduce (garmin etrex 20 supports 250 points per route) <http://gpsbabel.org/htmldoc-development/filter_simplify.html>, <https://support.garmin.com/support/searchSupport/case.faces?caseId=%7B0b02f820-03db-11e0-e050-000000000000%7D>
 * x11-apps/mesa-progs                `glxgears` opengl frames per second (fps) benchmark
 * x11-apps/xdpyinfo                  show dpi
 * x11-misc/xcalib                    load icc/icm display color profiles (only calibration curves) <https://wiki.archlinux.org/index.php/ICC_Profiles#xcalib>
 
 ## Xfce
 
-x11-themes/gtk-engines-xfce:0
-x11-themes/hicolor-icon-theme
-xfce-base/xfce4-appfinder
-xfce-base/xfce4-session
-xfce-base/xfce4-settings
-xfce-base/xfdesktop
-xfce-base/xfwm4
+* x11-themes/gtk-engines-xfce:0
+* x11-themes/hicolor-icon-theme
+* xfce-base/xfce4-appfinder
+* xfce-base/xfce4-session
+* xfce-base/xfce4-settings
+* xfce-base/xfdesktop
+* xfce-base/xfwm4
+* xfce-extra/xfce4-genmon-plugin     load average in xfce panel <http://goodies.xfce.org/projects/panel-plugins/start#xfce4-genmon-plugin>
+* xfce-extra/xfce4-screenshooter     screen capture <https://wiki.archlinux.org/index.php/Taking_a_screenshot>
 
 ## Uninstalled
 
