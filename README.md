@@ -105,6 +105,7 @@
 * x11-apps/xbacklight                screen backlight <https://wiki.archlinux.org/index.php/backlight#xbacklight>
 * x11-apps/xev
 * x11-apps/xrandr                    enable/disable external monitor
+* x11-apps/xwininfo                  show display resolution (dimension)
 * x11-misc/cdm                       starting x11 <https://wiki.archlinux.org/index.php/CDM>
 * x11-misc/dex                       execute commands on window manager startup <http://superuser.com/questions/130242/how-can-i-execute-commands-on-startup-in-awesome#326626>
 * x11-misc/dunst                     minimalistic notification daemon (notify-osd from canonical replace) <http://knopwob.org/dunst>, <http://github.com/knopwob/dunst>, <https://wiki.archlinux.org/index.php/Desktop_notifications#Standalone>
