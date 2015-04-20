@@ -109,6 +109,7 @@ x11-apps/xbacklight
 x11-apps/xev
 x11-apps/xmodmap
 x11-apps/xrandr
+x11-apps/xwininfo
 x11-base/xorg-server
 x11-misc/cdm
 x11-misc/dex
