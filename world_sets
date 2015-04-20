@@ -1,0 +1,10 @@
+# <http://superuser.com/questions/591409/manage-multiple-world-files-in-gentoo-linux-for-different-machines#592207>.
+# @desktop
+# @h9
+# @kernel
+# @rails
+# @suckless
+# @xfce
+@common
+@ruby
+@server
