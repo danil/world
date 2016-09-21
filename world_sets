@@ -1,11 +1,14 @@
 # <http://superuser.com/questions/591409/manage-multiple-world-files-in-gentoo-linux-for-different-machines#592207>.
+@bench
 @common
 @desktop
 @emacs
 @h10
 @java
 @kernel
+@postgresql
 @python
 @rails
+@ranger
 @ruby
 @suckless
