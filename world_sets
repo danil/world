@@ -1,5 +1,4 @@
 # <http://superuser.com/questions/591409/manage-multiple-world-files-in-gentoo-linux-for-different-machines#592207>.
-@armor5games
 @benchmarks
 @common
 @desktop
@@ -12,9 +11,10 @@
 @kernel
 @laptop
 @lint
+@mysql
 @postgresql
 @python
-@ranger
+@employer_rocketbank
 @ruby
 @suckless
 @sys
